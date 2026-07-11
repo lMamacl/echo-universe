@@ -11,6 +11,8 @@ Religions themselves should be noted here- though there may be heavy overlap bet
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Apotheosis and Divinity]]
+- [[Magic System]]
+- [[The Echo Plane]]
 
 %% End Waypoint %%

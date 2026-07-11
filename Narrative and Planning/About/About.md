@@ -12,6 +12,7 @@ The About Folder can contain the overarching information about your world. It is
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Echo Universe — World Bible]]
+- [[Introduction to the Echo Universe]]
 
 %% End Waypoint %%

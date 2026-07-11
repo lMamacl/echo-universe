@@ -42,7 +42,15 @@ Population groups include ethnicities, nationalities, cultures, and other broad 
 - **[[Commercial]]**
 - **[[General]]**
 - **[[Political]]**
+	- [[Council of Scales]]
+	- [[Phoenix Empire]]
+	- [[Second Empire]]
 - **[[Population]]**
+	- [[Dark Elves]]
+	- [[Elves]]
+	- [[Green Elves]]
+	- [[Lizardfolk]]
 - **[[Religious]]**
+	- [[Church of the Phoenix]]
 
 %% End Waypoint %%

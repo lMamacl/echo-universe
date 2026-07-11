@@ -1,12 +1,31 @@
 ---
 tags:
   - documentation
+  - echo-universe
 ---
-# About
+# Echo Universe — Worldbuilding Vault
 
-This is a worldbuilding template vault (notebook) for the Obsidian.md notetaking software.
+This vault contains the worldbuilding notes for the **Echo Universe** — a realistic fantasy (low fantasy) setting where reality is shaped by human consciousness through a parallel mental dimension called **Echo** (Immaterium).
 
-This vault is already setup with a basic organization structure, various templates, and plugins that help with planning and writing. It is aimed at both fantasy writers, and at TTRPG game masters (GMs).
+## Quick Start
+
+| Document | Description |
+|---|---|
+| [[Echo Universe — World Bible]] | Konstytucja Świata — complete world rules and foundations |
+| [[Introduction to the Echo Universe]] | Introduction and magic system overview |
+| [[World History Timeline]] | Complete chronological history (-12,000 to 1600 AI) |
+| [[Magic System]] | Detailed mechanics of Echo manifestation |
+| [[Apotheosis and Divinity]] | How mortals become gods |
+
+## Core Concepts
+- **One species, many forms:** All "races" (Elves, Lizardfolk, etc.) are magically-evolved branches of *Homo sapiens*
+- **Echo magic:** Not mana or spells — the manifestation of concepts from a parallel mental plane
+- **Gods as ideas:** Deities are mortal beings who transcended through collective worship
+- **The Phoenix Emperor:** A god-emperor who controlled both mortals and gods for 2,200 years before his consciousness fragmented
+
+---
+
+*Built on the [obsidian-worldbuilding-template](https://github.com/). This vault uses its organization structure, templates, and plugins for planning and writing.*
 
 # Installing
 

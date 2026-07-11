@@ -93,6 +93,11 @@ However...
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Empress Aetheria]]
+- [[Khaine]]
+- [[Misha]]
+- [[Phoenix Emperor]]
+- [[Raicha]]
+- [[The Spider God]]
 
 %% End Waypoint %%

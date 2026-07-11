@@ -22,6 +22,8 @@ World builders are encouraged to create their own folders and organize appropria
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[The Echo Shattering]]
+- [[War of Two Empires]]
+- [[World History Timeline]]
 
 %% End Waypoint %%

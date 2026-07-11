@@ -44,6 +44,8 @@ Settlements include towns, villages, cities, and other localized groups of perma
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Great Western Isles]]
+- [[Northern Continent]]
+- [[Southern Continent]]
 
 %% End Waypoint %%

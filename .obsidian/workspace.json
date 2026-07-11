@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters/The Spider God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Spider God"
             }
           }
         ]
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -79,7 +79,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           },
           {
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Characters/The Spider God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Konspekt The Spider God"
             }
           },
           {
@@ -192,26 +192,26 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "workspaces:Zarządzaj układami obszaru roboczego": false,
+      "bases:Stwórz nową bazę danych": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
@@ -220,35 +220,35 @@
   },
   "active": "9078e2d5009d63fa",
   "lastOpenFiles": [
-    "Templates/Narrative/Session Note.md",
-    "Templates/Narrative/Storyline.md",
-    "README.md",
+    "Characters/Phoenix Emperor.md",
+    "Characters/Khaine.md",
+    "Characters/Misha.md",
+    "Groups/Population/Green Elves.md",
+    "Groups/Population/Dark Elves.md",
+    "Characters/Raicha.md",
+    "Groups/Political/Council of Scales.md",
+    "Groups/Political/Political.md",
+    "Groups/Political/Second Empire.md",
+    "Events/War of Two Empires.md",
+    "Characters/Empress Aetheria.md",
+    "Documentation/04- Git and Obsidian.md",
+    "Society/Religion/Apotheosis and Divinity.md",
+    "Society/Religion/Magic System.md",
+    "Society/Religion/The Echo Plane.md",
+    "Locations/Great Western Isles.md",
+    "Locations/Southern Continent.md",
+    "Locations/Northern Continent.md",
+    "Groups/Religious/Church of the Phoenix.md",
+    "Groups/Population/Lizardfolk.md",
+    "Groups/Population/Elves.md",
+    "Groups/Political/Phoenix Empire.md",
+    "Events/World History Timeline.md",
+    "Events/The Echo Shattering.md",
+    "Characters/The Spider God.md",
+    "Narrative and Planning/About/Introduction to the Echo Universe.md",
     "Documentation/Images/quick-tagger-example.png",
     "Documentation/Images/tags-example-gods.png",
-    "Documentation/03- Community Plugins.md",
-    "Documentation/02- Best Practices.md",
     "Documentation/Images/landmark-example.png",
-    "Templates/Categories/Main Category Folder Note.md",
-    "Templates/Categories/Subcategory Folder Note.md",
-    "Templates/Templates.md",
-    "Templates/Categories/Folder Note Template.md",
-    "04-.md",
-    "Documentation/01- Getting Started.md",
-    "Documentation/04- Git and Obsidian.md",
-    "Documentation/Documentation.md",
-    "Templates/Events/Event.md",
-    "Templates/Technology/Tech- Transportation.md",
-    "Templates/Technology/Tech- Medical.md",
-    "Templates/Technology/Tech- Manufacturing.md",
-    "Templates/Technology/Tech- Magical.md",
-    "Templates/Technology/Tech- Culture.md",
-    "Templates/Technology/Tech- Construction.md",
-    "Templates/Technology/Tech- Communication.md",
-    "Templates/Technology/Tech- Agricultural.md",
-    "Templates/Technology/Tech- Administrative.md",
-    "Templates/Location/Location- Establishment.md",
-    "Templates/Material/Material- Object (Minecart).md",
-    "Templates/Location/Location- Feature.md",
     "Technology",
     "Templates/Technology",
     "Obsidian-Worldbuilding-Template-Vault-by-DG",

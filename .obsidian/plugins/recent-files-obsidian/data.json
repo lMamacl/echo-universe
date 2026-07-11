@@ -1,5 +1,70 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "The Spider God",
+      "path": "Characters/The Spider God.md"
+    },
+    {
+      "basename": "Phoenix Emperor",
+      "path": "Characters/Phoenix Emperor.md"
+    },
+    {
+      "basename": "Khaine",
+      "path": "Characters/Khaine.md"
+    },
+    {
+      "basename": "Misha",
+      "path": "Characters/Misha.md"
+    },
+    {
+      "basename": "Green Elves",
+      "path": "Groups/Population/Green Elves.md"
+    },
+    {
+      "basename": "Dark Elves",
+      "path": "Groups/Population/Dark Elves.md"
+    },
+    {
+      "basename": "Raicha",
+      "path": "Characters/Raicha.md"
+    },
+    {
+      "basename": "Council of Scales",
+      "path": "Groups/Political/Council of Scales.md"
+    },
+    {
+      "basename": "Political",
+      "path": "Groups/Political/Political.md"
+    },
+    {
+      "basename": "Second Empire",
+      "path": "Groups/Political/Second Empire.md"
+    },
+    {
+      "basename": "War of Two Empires",
+      "path": "Events/War of Two Empires.md"
+    },
+    {
+      "basename": "Empress Aetheria",
+      "path": "Characters/Empress Aetheria.md"
+    },
+    {
+      "basename": "04- Git and Obsidian",
+      "path": "Documentation/04- Git and Obsidian.md"
+    },
+    {
+      "basename": "03- Community Plugins",
+      "path": "Documentation/03- Community Plugins.md"
+    },
+    {
+      "basename": "02- Best Practices",
+      "path": "Documentation/02- Best Practices.md"
+    },
+    {
+      "basename": "01- Getting Started",
+      "path": "Documentation/01- Getting Started.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
