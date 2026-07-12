@@ -74,6 +74,11 @@ Ciemna magia charakteryzuje się czerpaniem energii z cudzej woli/życia lub bez
 *   **Geneza:** Stworzeni jako broń w laboratoriach transmutacyjnych w XI-XII wieku AI podczas Wojny Chimerycznej poprzez zmieszanie ludzkich ciał z esencją bestii z Echa.
 *   **Status w 1600 AI:** Rasa pariasów, wolna od demonicznego wpływu, lecz spychana do gett, pracująca fizycznie i traktowana jako "żywy grzech" przeszłości.
 
+#### 5. Lud-Krety (Mole Folk)
+*   **Cechy:** Istoty o niskim wzroście, potężnej gęstości kości i mięśni oraz odporności na magię. Średnia długość życia wynosi do 120 lat.
+*   **Geneza:** Odłam ludzkości powstały w wyniku pokoleniowej adaptacji do życia pod ziemią i stałego promieniowania magicznych kruszców Echa.
+*   **Status w 1600 AI:** Wyspecjalizowana kasta rzemieślniczo-górnicza kontrolująca wydobycie rud i nanoszenie run (Rzemiosło Infuzyjne) w kopalniach całego kontynentu.
+
 ---
 
 ## IV. System Wiary i Apoteoza

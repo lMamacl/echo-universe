@@ -23,21 +23,18 @@ group_status: Aktywna (marginalizowana)
 
 ## Opis i Charakterystyka
 
-**Orkowie (Zmienieni)** są podgatunkiem ludzkim stworzonym sztucznie za pomocą magii. Nie wyewoluowali w sposób naturalny, lecz stanowią rezultat brutalnych, wielopokoleniowych eksperymentów z zakresu **transmutacji cielesnej (Cielesnego Tkania)** przeprowadzonych w okresie średniowiecznym.
+**Orkowie (Zmienieni)** są podgatunkiem ludzkim stworzonym sztucznie za pomocą magii. Nie wyewoluowali w sposób naturalny, lecz stanowią rezultat brutalnych, eksperymentów z zakresu **transmutacji cielesnej (Cielesnego Tkania)** przeprowadzonych w okresie średniowiecznym.
 
 Mimo odmiennego i groźnego wyglądu, posiadają ludzki kod genetyczny i są w pełni inter-fertylni z resztą populacji ludzkiej.
 
 ---
 
-## Historia
+## Historia i Demografia w Drugim Imperium
 
-### Wojna Chimeryczna (1100–1200 AI)
-Podczas apogeum Krucjat, silna koalicja zbuntowanych magów i magnatów podjęła próbę obalenia monopolu [[Church of the Phoenix|Kościoła Feniksa]]. W tajnych laboratoriach sięgnęli po zakazaną magię transmutacji ciał, zlewając esencję drapieżnych bestii z Echa z ciałami chłopów i jeńców wojennych. W ten sposób stworzono Zmienionych — idealnych żołnierzy o potężnej sile, wysokiej tolerancji na ból i szaro-zielonej, grubej skórze.
-
-Z czasem magowie utracili kontrolę nad swoimi dziełami pod wpływem demonicznej skazy z Echa. Po klęsce buntu i wygaśnięciu demonicznego wpływu, Zmienieni powoli odzyskali pełną wolną wolę i rozum.
-
-### Integracja Powojenna (1300–1600 AI)
-Przez stulecia Zmienieni byli prześladowani, polowano na nich i trzymano w niewoli. Z czasem ich populacja ustabilizowała się jako najniższa kasta społeczna. W roku 1600 AI zamieszkują getta w wielkich miastach portowych i przemysłowych Półwyspu Zachodniego, pracując głównie fizycznie jako dokerzy, górnicy oraz najemni żołnierze piechoty.
+*   **Wojna Chimeryczna (1100–1200 AI):** Zmienieni zostali wyhodowani w laboratoriach magów zbuntowanej arystokracji. W statystykach Drugiego Imperium pojawiają się po raz pierwszy w roku **1100 AI** w liczbie **102,62 tysięcy** jako kontrolowane jednostki bojowe.
+*   **Koniec Wojny (1200 AI):** Po klęsce magów i wygaśnięciu demonicznej skazy, ocalali Orkowie rozproszyli się. Ich populacja w roku 1200 AI wynosiła **270,92 tysięcy**. Stopniowo odzyskiwali wolną wolę i integrowali się ze społeczeństwem jako najniższa warstwa społeczna.
+*   **Stan w roku 1600 AI:** W wyniku szybkiego przyrostu naturalnego i adaptacji, ich populacja wzrosła do **634,64 tysięcy** (co stanowi **ok. 5% ogółu mieszkańców** Drugiego Imperium). Zamieszkują głównie getta w miastach portowych i przemysłowych, wykonując ciężkie prace fizyczne.
+*   **Perspektywy (1700 AI):** Dane szacują dalszy wzrost do **685,41 tysięcy**, co zbiega się z rozwojem pierwszych zorganizowanych ruchów emancypacyjnych domagających się równouprawnienia.
 
 ---
 
@@ -46,12 +43,6 @@ Przez stulecia Zmienieni byli prześladowani, polowano na nich i trzymano w niew
 *   **Cechy Fizyczne:** Potężna, muskularna postura, wysoka gęstość kości i mięśni, charakterystyczna szaro-zielona skóra oraz duża odporność na zimno i obrażenia mechaniczne.
 *   **Inter-fertylność:** Orkowie mogą mieć potomstwo z ludźmi i elfami (krzyżowanie z ludźmi jest bardziej kompatybilne).
 *   **Półorkowie (Half-Orks):** Potomkowie ze związków ludzi i orków dziedziczą siłę i wytrzymałość orka, zachowując jednak ludzką aparycję. Często znajdują zatrudnienie w straży miejskiej lub armii zawodowej.
-
----
-
-## Status Społeczny (1600 AI)
-
-Wraz z nastaniem renesansu i pierwszych reform humanistycznych na Północy, Zmienieni zaczynają się organizować. Powstają pierwsze ruchy emancypacyjne domagające się likwidacji gett, równych płac oraz dopuszczenia do rad miejskich. Napotykają one jednak na silny opór, systemowy rasizm i lęk społeczny zakorzeniony od czasów Wojny Chimerycznej.
 
 ---
 > [!note] Powiązane
