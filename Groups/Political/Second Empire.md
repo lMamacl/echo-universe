@@ -44,35 +44,35 @@ Drugie Imperium przeszło głębokie przemiany strukturalne i terytorialne:
 
 Dane demograficzne odzwierciedlają terytorialny rozkwit, upadek oraz powolną stabilizację i ewolucję biologiczną Drugiego Imperium:
 
-| Rok AI | Ludzie | Aethani (Elfy) | Półelfy | Mole Folk | Orkowie | **Suma (Total)** | Dynamika |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **-200** | 2 268,39 | 3 062,32 | 226,84 | 113,42 | 0,00 | **5 670,97** | - |
-| **-100** | 9 073,55 | 5 832,99 | 810,14 | 486,08 | 0,00 | **16 202,76** | 285,71% |
-| **0** | 25 847,26 | 9 258,72 | 1 928,90 | 1 543,12 | 0,00 | **38 578,00** | 238,10% |
-| **100** | 28 069,35 | 9 494,05 | 2 063,92 | 1 651,14 | 0,00 | **41 278,46** | 107,00% |
-| **200** | 31 045,53 | 8 998,70 | 3 149,55 | 1 799,74 | 0,00 | **44 993,52** | 109,00% |
-| **300** | 37 056,66 | 8 872,72 | 4 175,40 | 2 087,70 | 0,00 | **52 192,48** | 116,00% |
-| **400** | 33 977,31 | 7 280,85 | 4 853,90 | 2 426,95 | 0,00 | **48 539,01** | 93,00% |
-| **500** | 31 482,40 | 5 931,47 | 5 475,20 | 2 737,60 | 0,00 | **45 626,67** | 94,00% |
-| **600** | 29 278,63 | 4 243,28 | 6 364,92 | 2 545,97 | 0,00 | **42 432,80** | 93,00% |
-| **700** | 19 858,55 | 1 833,10 | 6 415,84 | 2 444,13 | 0,00 | **30 551,62** | 72,00% |
-| **800** | 12 122,88 | 586,59 | 4 692,73 | 1 759,77 | 0,00 | **19 553,04** | 64,00% |
-| **900** | 5 103,34 | 263,97 | 2 727,65 | 703,91 | 0,00 | **8 798,87** | 45,00% |
-| **1000** | 5 554,72 | 188,30 | 2 918,58 | 753,18 | 0,00 | **9 414,79** | 107,00% |
-| **1100** | 6 390,22 | 177,53 | 2 770,77 | 820,97 | 102,62 | **10 262,12** | 109,00% |
-| **1200** | 5 797,69 | 162,55 | 2 077,05 | 722,45 | 270,92 | **9 030,66** | 88,00% |
-| **1300** | 6 162,30 | 139,52 | 1 883,57 | 744,13 | 372,06 | **9 301,58** | 103,00% |
-| **1400** | 6 602,26 | 136,73 | 1 758,00 | 732,50 | 537,17 | **9 766,66** | 105,00% |
-| **1500** | 7 849,47 | 144,74 | 1 781,44 | 779,38 | 578,97 | **11 134,00** | 114,00% |
-| **1600** | 9 011,86 | 158,66 | 2 030,84 | 856,76 | 634,64 | **12 692,75** | 114,00% |
-| **1700** | 9 835,62 | 171,35 | 2 124,77 | 891,03 | 685,41 | **13 708,17** | 108,00% |
+| Rok AI | Ludzie | Aethani (Elfy) | Półelfy | Mole Folk | Orkowie | Półorkowie | **Suma (Total)** | Dynamika |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **-200** | 2 268,39 | 3 062,32 | 226,84 | 113,42 | 0,00 | 0,00 | **5 670,97** | 0,00% |
+| **-100** | 9 073,55 | 5 832,99 | 810,14 | 486,08 | 0,00 | 0,00 | **16 202,76** | 285,71% |
+| **0** | 28 547,72 | 6 558,26 | 1 928,90 | 1 543,12 | 0,00 | 0,00 | **38 578,00** | 238,10% |
+| **100** | 30 958,85 | 6 604,55 | 2 063,92 | 1 651,14 | 0,00 | 0,00 | **41 278,46** | 107,00% |
+| **200** | 33 295,21 | 6 749,03 | 3 149,55 | 1 799,74 | 0,00 | 0,00 | **44 993,52** | 109,00% |
+| **300** | 38 100,51 | 7 828,87 | 4 175,40 | 2 087,70 | 0,00 | 0,00 | **52 192,48** | 116,00% |
+| **400** | 24 843,62 | 5 323,63 | 3 549,09 | 1 774,54 | 0,00 | 0,00 | **35 490,89** | 68,00% |
+| **500** | 23 998,94 | 4 521,54 | 4 173,73 | 2 086,86 | 0,00 | 0,00 | **34 781,07** | 98,00% |
+| **600** | 22 319,01 | 3 234,64 | 4 851,96 | 1 940,78 | 0,00 | 0,00 | **32 346,40** | 93,00% |
+| **700** | 15 371,01 | 2 561,83 | 3 959,20 | 1 397,36 | 0,00 | 0,00 | **23 289,41** | 72,00% |
+| **800** | 9 518,38 | 1 560,39 | 3 120,78 | 1 404,35 | 0,00 | 0,00 | **15 603,90** | 67,00% |
+| **900** | 3 774,58 | 319,88 | 1 791,33 | 511,81 | 0,00 | 0,00 | **6 397,60** | 41,00% |
+| **1000** | 4 567,25 | 309,64 | 2 244,92 | 619,29 | 0,00 | 0,00 | **7 741,10** | 121,00% |
+| **1100** | 5 290,45 | 236,69 | 2 340,91 | 693,60 | 86,70 | 21,68 | **8 670,03** | 112,00% |
+| **1200** | 4 722,39 | 138,89 | 1 774,75 | 617,31 | 308,65 | 154,33 | **7 716,32** | 89,00% |
+| **1300** | 5 271,02 | 125,00 | 1 687,56 | 666,69 | 250,01 | 333,35 | **8 333,63** | 108,00% |
+| **1400** | 6 027,01 | 127,17 | 1 635,06 | 681,27 | 181,67 | 431,47 | **9 083,66** | 109,00% |
+| **1500** | 7 197,44 | 135,80 | 1 671,39 | 731,23 | 130,58 | 579,76 | **10 446,21** | 115,00% |
+| **1600** | 8 801,45 | 160,61 | 2 055,81 | 867,30 | 102,79 | 860,87 | **12 848,83** | 123,00% |
+| **1700** | 9 635,60 | 175,07 | 2 184,82 | 931,35 | 42,02 | 1036,39 | **14 005,23** | 109,00% |
 
 ### Analiza Zjawisk Demograficznych:
-1.  **Ekspansja Terytorialna (-200 do 0 AI):** Gwałtowny skok populacji z 5,6 mln do 38,5 mln odzwierciedla podbój i jednoczenie rozproszonych ziem Półwyspu Zachodniego przez Autokratę Aureliusa.
-2.  **Szczyt w Roku 300 AI (52,1 mln):** Imperium u szczytu potęgi, kontrolujące niemal cały subkontynent, wykazuje populację porównywalną z Cesarstwem Rzymskim w okresie Pax Romana (55–65 mln).
-3.  **Wielkie Skurczenie (500 do 900 AI):** Spadek populacji o ok. 80% (do 8,8 mln) odzwierciedla najazd ludów ze wschodu i skurczenie się granic państwa wyłącznie do centralnej doliny. Ludność z utraconych ziem przestała być liczona jako imperialni poddani.
-4.  **Wojna Chimeryczna (1100–1200 AI):** Wojna religijna i spustoszenie demoniczne przynoszą spadek populacji z 10,2 mln do 9,0 mln. W tym okresie w rejestrach pojawiają się pierwsi Orkowie (Zmienieni) w liczbie 102 tysięcy (1100 AI), rosnąc do 270 tysięcy (1200 AI).
-5.  **Uwiąd Elfów (Aethani):** Spadek udziału czystych elfów z 54% (rok -200) do zaledwie 1,2% (1600 AI) ukazuje powolne wygasanie tej rasy z powodu niskiej płodności i krzyżowania się z ludźmi, na korzyść rosnącej populacji Półelfów (Half-Aethani) stanowiących 16% w 1600 AI.
+1.  **Ekspansja Terytorialna (-200 do 0 AI):** Gwałtowny skok populacji z 5,6 mln do 38,5 mln odzwierciedla podbój i jednoczenie rozproszonych ziem Półwyspu Zachodniego przez Autokratę Aureliusa. W okresie tym elfy (Aethani) tracą pozycję większościową na rzecz asymilacji ludzkiej.
+2.  **Szczyt w Roku 300 AI (52,2 mln):** Imperium u szczytu potęgi, kontrolujące niemal cały subkontynent, wykazuje populację porównywalną z Cesarstwem Rzymskim w okresie Pax Romana (55–65 mln).
+3.  **Wielki Kryzys i Skurczenie (400 do 900 AI):** Wojny domowe i inwazja zza gór w 500 AI spychają granice imperium wyłącznie do centralnej doliny, co skutkuje drastycznym zjazdem demograficznym do poziomu **6,4 miliona** (900 AI).
+4.  **Wojna Chimeryczna (1100–1200 AI):** Wojna w okresie Krucjat wywołuje załamanie populacji. W tym czasie pojawiają się stworzeni w laboratoriach **Orkowie (Zmienieni)**, którzy stanowią zbrojne siły najeźdźców i buntowników w konfliktach XII–XIV wieku (szczyt w 1200 AI z populacją 308,65 tys.). Ze względu na ciągłe zaangażowanie wojenne ich liczba powoli spada, a w 1700 AI ulegają niemal całkowitej eksterminacji/wymarciu (zaledwie 42 tys.).
+5.  **Ekspansja Półorków:** W przeciwieństwie do czystych Orków obarczonych demoniczną furią, krzyżówki ludzko-orkowe (**Półorkowie**) stabilizują się jako normalny, wolny od skazy odłam społeczeństwa. Ich liczba gwałtownie rośnie, osiągając **1,03 miliona w 1700 AI** (stanowiąc nową, istotną siłę demograficzną Drugiego Imperium).
 
 ---
 ## Struktura Władzy

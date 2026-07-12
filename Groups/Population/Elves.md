@@ -36,9 +36,9 @@ Elfy (w statystykach Drugiego Imperium określane jako **Aethani**) są dominuj�
 Statystyki Drugiego Imperium ukazują głęboki, powolny kryzys demograficzny czystej rasy elfów:
 
 *   **Początek (-200 PI):** Aethani stanowili większość populacji prowincji centralnych — **54%** (3,06 miliona).
-*   **Szczyt (300 AI):** Mimo nominalnego wzrostu do **8,87 miliona**, ich procentowy udział w dynamicznie rosnącym cesarstwie spadł do **17%**.
-*   **Kryzys i Asymilacja (500 do 1600 AI):** Wypieranie elfów z rubieży w 500 AI oraz niska dzietność wywołały zapaść demograficzną. W roku 1600 AI liczba czystej krwi Aethani w Drugim Imperium wynosi zaledwie **158 tysięcy (1,2% populacji)**. Rasa ta stoi u progu wymarcia w granicach cesarstwa.
-*   **Zwycięstwo Półelfów (Half-Aethani):** Spadek liczby czystych elfów rekompensuje dynamiczny wzrost Półelfów. W roku 1600 AI jest ich **2,03 miliona (16% populacji)**. Stanowią oni nową, wpływową klasę rzemieślniczą, urzędniczą i handlową, przejmując kulturowe dziedzictwo Aethani.
+*   **Wzrost do szczytu (300 AI):** Mimo nominalnego wzrostu do **7,82 miliona**, ich procentowy udział w dynamicznie rosnącym cesarstwie spadł do **15%**.
+*   **Kryzys i Asymilacja (500 do 1600 AI):** Wypieranie elfów z rubieży w 500 AI oraz niska dzietność wywołały zapaść demograficzną. W roku 1600 AI liczba czystej krwi Aethani w Drugim Imperium wynosi zaledwie **160,61 tysięcy (1,2% populacji)**. Rasa ta stoi u progu wymarcia w granicach cesarstwa.
+*   **Zwycięstwo Półelfów (Half-Aethani):** Spadek liczby czystych elfów rekompensuje dynamiczny wzrost Półelfów. W roku 1600 AI jest ich **2,05 miliona (16% populacji)**. Stanowią oni nową, wpływową klasę rzemieślniczą, urzędniczą i handlową, przejmując kulturowe dziedzictwo Aethani.
 
 ---
 ## Główne Podgrupy

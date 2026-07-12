@@ -37,7 +37,7 @@ group_status: Aktywna
 
 *   **Początki (-200 PI):** Stanowili niewielką mniejszość górniczą w górach Półwyspu Zachodniego w liczbie **113,42 tysięcy** (ok. 2% populacji).
 *   **Szczyt w Złotym Wieku (300 AI):** Ich populacja osiągnęła szczyt — **2,08 miliona** (ok. 4% populacji). Byli kluczowymi dostawcami surowców i architektami podziemnych fortyfikacji cesarstwa.
-*   **Okres Skurczenia i Odbudowy (500 do 1600 AI):** Najazd ze wschodu odciął wiele kopalni. W najgorszym okresie (900 AI) ich liczba w imperium spadła do 703 tysięcy. W roku 1600 AI populacja ustabilizowała się na poziomie **856,76 tysięcy (ok. 6,8% populacji)**.
+*   **Okres Skurczenia i Odbudowy (500 do 1600 AI):** Najazd ze wschodu odciął wiele kopalni. W najgorszym okresie (900 AI) ich liczba w imperium spadła do **511,81 tysięcy**. W roku 1600 AI populacja ustabilizowała się na poziomie **867,30 tysięcy (ok. 6,8% populacji)**.
 
 ---
 

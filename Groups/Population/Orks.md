@@ -7,46 +7,48 @@ aliases:
   - Zmienieni
   - Orkowie
   - Orks
-group_status: Aktywna (marginalizowana)
+  - Półorkowie
+  - Half-Orks
+group_status: Aktywna (wymierający Orkowie, rosnący Półorkowie)
 ---
-# Orkowie (Zmienieni)
+# Orkowie i Półorkowie (Zmienieni)
 
 > [!infobox]
-> # Orkowie (Zmienieni)
+> # Orkowie i Półorkowie
 > ###### O grupie
-> | Typ | Magicznie stworzona rasa ludzka (*Homo sapiens*) |
+> | Typ | Magicznie przekształcone linie ludzkie (*Homo sapiens*) |
 > | ---- | ---- |
-> | Inne nazwy | Zmienieni, Orkowie |
-> | Główne lokacje | Półwysep Zachodni, centralne prowincje [[Second Empire\|Drugiego Imperium]] |
-> | Status społeczny | Zmarginalizowana mniejszość, ruchy emancypacyjne |
-> | Język | Języki imperialne |
+> | Inne nazwy | Zmienieni, Orkowie, Półorkowie |
+> | Siedziba (Półorkowie) | Półwysep Zachodni, centralne prowincje [[Second Empire\|Drugiego Imperium]] |
+> | Status Orków | Wymarli / Wybici pod koniec okresu |
+> | Status Półorków | Zintegrowana, szybko rosnąca część klasy robotniczej i wojskowej |
 
-## Opis i Charakterystyka
+## Podział na dwie linie genetyczne
 
-**Orkowie (Zmienieni)** są podgatunkiem ludzkim stworzonym sztucznie za pomocą magii. Nie wyewoluowali w sposób naturalny, lecz stanowią rezultat brutalnych, eksperymentów z zakresu **transmutacji cielesnej (Cielesnego Tkania)** przeprowadzonych w okresie średniowiecznym.
+Wskutek wydarzeń Wojny Chimerycznej, Zmienieni wyodrębnili się na dwa zupełnie odmienne demograficznie i społecznie odłamy:
 
-Mimo odmiennego i groźnego wyglądu, posiadają ludzki kod genetyczny i są w pełni inter-fertylni z resztą populacji ludzkiej.
+### 1. Czystej Krwi Orkowie (Przeklęci)
+*   **Cechy:** Posiadają potężną, zdeformowaną posturę, szaro-zieloną skórę oraz wrodzoną, kontrolowaną przez Echo żądzę mordu i szał bojowy (demoniczną skazę).
+*   **Rola w historii:** Stanowili główną siłę uderzeniową wrogich armii w wojnach XII–XIV wieku. Używani jako niszczycielska piechota przez zbuntowanych magów i sekty.
+*   **Uwiąd i Wymarcie:** Ze względu na nieustanny udział w krwawych konfliktach, brak dbałości o przyrost naturalny oraz bezwzględną eksterminację ze strony inkwizycji [[Church of the Phoenix|Kościoła Feniksa]], ich populacja systematycznie spadała. Z szczytowego poziomu **308,65 tysięcy w 1200 AI** spadła do **42 tysięcy w 1700 AI**. W praktyce są rasą wymarłą w granicach cesarstwa.
 
----
-
-## Historia i Demografia w Drugim Imperium
-
-*   **Wojna Chimeryczna (1100–1200 AI):** Zmienieni zostali wyhodowani w laboratoriach magów zbuntowanej arystokracji. W statystykach Drugiego Imperium pojawiają się po raz pierwszy w roku **1100 AI** w liczbie **102,62 tysięcy** jako kontrolowane jednostki bojowe.
-*   **Koniec Wojny (1200 AI):** Po klęsce magów i wygaśnięciu demonicznej skazy, ocalali Orkowie rozproszyli się. Ich populacja w roku 1200 AI wynosiła **270,92 tysięcy**. Stopniowo odzyskiwali wolną wolę i integrowali się ze społeczeństwem jako najniższa warstwa społeczna.
-*   **Stan w roku 1600 AI:** W wyniku szybkiego przyrostu naturalnego i adaptacji, ich populacja wzrosła do **634,64 tysięcy** (co stanowi **ok. 5% ogółu mieszkańców** Drugiego Imperium). Zamieszkują głównie getta w miastach portowych i przemysłowych, wykonując ciężkie prace fizyczne.
-*   **Perspektywy (1700 AI):** Dane szacują dalszy wzrost do **685,41 tysięcy**, co zbiega się z rozwojem pierwszych zorganizowanych ruchów emancypacyjnych domagających się równouprawnienia.
+### 2. Półorkowie (Half-Orks)
+*   **Cechy:** Mieszańcy zrodzeni ze związków ludzi i Zmienionych. Są pozbawieni pierwotnej, demonicznej furii i anomalii psychicznych Orków. Dziedziczą jednak ich wzrost, gęstość kości i odporność fizyczną.
+*   **Ewolucja Demograficzna:** W przeciwieństwie do wymierających Orków, Półorkowie odnaleźli swoje miejsce jako normalna, zintegrowana część społeczeństwa. Ich populacja rośnie gwałtownie:
+    *   *1100 AI:* 21,68 tysiąca.
+    *   *1200 AI:* 154,33 tysiąca (adaptacja po pierwszej fazie wojny).
+    *   *1600 AI:* **860,87 tysięcy** (dynamiczna klasa robotnicza, dokerzy, górnicy, najemnicy).
+    *   *1700 AI:* **1,03 miliona** (rosnąca siła społeczna organizująca ruchy emancypacyjne).
 
 ---
 
 ## Biologia i Genetyka
 
-*   **Cechy Fizyczne:** Potężna, muskularna postura, wysoka gęstość kości i mięśni, charakterystyczna szaro-zielona skóra oraz duża odporność na zimno i obrażenia mechaniczne.
-*   **Inter-fertylność:** Orkowie mogą mieć potomstwo z ludźmi i elfami (krzyżowanie z ludźmi jest bardziej kompatybilne).
-*   **Półorkowie (Half-Orks):** Potomkowie ze związków ludzi i orków dziedziczą siłę i wytrzymałość orka, zachowując jednak ludzką aparycję. Często znajdują zatrudnienie w straży miejskiej lub armii zawodowej.
+*   **Kompatybilność:** Półorkowie wykazują wysoką płodność w związkach z ludźmi. Kolejne pokolenia stopniowo zatracają orkowe cechy wyglądu, zachowując jednak podwyższoną sprawność fizyczną.
+*   **Zastosowanie Społeczne:** Ze względu na swoją siłę i brak skazy psychicznej, Półorkowie są chętnie rekrutowani do straży miejskich, armii zawodowych oraz cechów rzemieślniczych pracujących przy obróbce metali.
 
 ---
 > [!note] Powiązane
-> - [[Elves]]
 > - [[Second Empire]]
 > - [[World History Timeline]]
 > - [[Magic System]]
