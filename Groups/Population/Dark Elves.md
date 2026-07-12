@@ -5,62 +5,48 @@ tags:
   - echo-universe
 aliases:
   - Mroczne Elfy
-  - Island Elves
-cover-image:
-group_status: Active
+  - Elfy Wyspiarskie
+group_status: Aktywna
 ---
+# Mroczne Elfy
+
 > [!infobox]
-> # Dark Elves
-> ###### About
-> | Type | Magically-evolved [[Elves\|Elven]] colonial subspecies |
+> # Mroczne Elfy
+> ###### O grupie
+> | Typ | Magicznie przekształcona linia [[Elves\|Elfów]] |
 > | ---- | ---- |
-> | Other Titles | Mroczne Elfy, Island Elves |
-> | Location(s) | Eastern island archipelago, Corsair Kingdoms |
-> | Member Count | Major naval power |
-> | Prominent Ideologies/Beliefs | [[Khaine]] worship (some), maritime traditions, autonomous governance |
-> | Languages | Dark Elvish (evolved Imperial Elvish) |
+> | Inne nazwy | Elfy Wyspiarskie |
+> | Główne lokacje | Archipelag wysp wschodnich, Królestwa Korsarzy |
+> | Ideologia / Wiara | Kult [[Khaine\|Khaine'a]] (Korsarze), pragmatyzm kupiecki |
+> | Język | Dialekt Mroczny (wyewoluowany z Elfiego) |
 
-# Description
+## Opis i Cechy Charakterystyczne
 
-The Dark Elves are a distinct cultural and biological branch of the [[Elves|elvish]] people, formed through centuries of colonial separation and maritime adaptation. Founded as a distant colony of the [[Phoenix Empire]], they developed unique cultural practices, enhanced sea-magic, and autonomous governance traditions that eventually made them a rival power to the imperial heartland.
+Mroczne Elfy to wyodrębniony odłam [[Elves|Elfów]], powstały wskutek wielowiekowej separacji kolonialnej na wschodnim archipelagu wysp oraz adaptacji do trudnych warunków morskich. Biologicznie ich linia genetyczna utrwaliła cechy ułatwiające żeglugę, odporność na wilgoć oraz głębokie powinowactwo z oceanicznymi rezonansami Echa (magia fal i sztormów).
 
-# History
+Kulturowo stanowią pragmatyczny i bezwzględny odłam ludzkości, którego charakter w roku 1600 AI jest głęboko powiązany z uosobieniem bóstwa wojny [[Khaine|Khaine'a]].
 
-## Foundation (-4230 to -4210)
-The [[Phoenix Empire]]'s eastern expansion led to the establishment of permanent settlements on a distant island archipelago. The Colonial Charter (-4225) formally recognized colonial autonomy due to the vast distance from the imperial heartland. Within two decades, rapid cultural and magical adaptation to the oceanic environment created a distinct colonial identity.
+---
 
-## Cultural Divergence (-3500 to -3200)
-Over five generations, Dark Elf colonial society developed:
-- Maritime magical traditions focused on sea, storm, and navigation.
-- Independent decision-making and autonomous governance.
-- Economic independence rivaling the imperial heartland.
-- A fully distinct cultural identity by -3200.
+## Historia i Separacja od Imperium
 
-## The Eastern Ascendancy (-3100 to -3000)
-While the western [[Phoenix Empire]] collapsed into the Pretender Wars and economic breakdown, the Dark Elves consolidated:
-- United under single autonomous government.
-- Trade networks flourished while western commerce collapsed.
-- Naval technology and magical practices advanced beyond imperial standards.
-- Became economically and militarily comparable to the original Empire.
+*   **Założenie Kolonii (-4230 do -4210 PI):** Pierwsze Imperium założyło odległe kolonie na wschodnich wyspach. Ze względu na dystans, Karta Kolonialna (-4225 PI) nadała wyspiarzom szeroką autonomię.
+*   **Rozbieżność Kulturowa (-3500 do -3200 PI):** W ciągu pięciu pokoleń koloniści wykształcili własną tożsamość. Opracowali zaawansowaną magię nawigacyjną i niezależną strukturę handlową, stając się bogatsi od metropolii.
+*   **Wzniesienie Wschodniej Hegemonii (-3100 do -3000 PI):** Podczas gdy zachód metropolii gnił w kryzysie pretendentów, Mroczne Elfy zjednoczyły się pod własnym rządem, osiągając dominację militarną i morską.
+*   **Wojna Dwóch Imperiów (-2950 do -2886 PI):** Wyzwolony z Zasłony Bóg Wojny [[Khaine]] wybrał Mrocznego Elfa na swojego Avatara. Prowadzili oni bezwzględną wojnę sukcesyjną przeciwko ortodoksji [[Empress Aetheria|cesarzowej Aetherii]], doprowadzając do ostatecznego zniszczenia obu armii i upadku imperium.
 
-## [[Khaine]]'s Champions (-3030 to -2886)
-The war-god [[Khaine]], freed from the Phoenix Veil System, chose a charismatic Dark Elf leader as his divine champion. This Avatar led the revolutionary faction in the [[War of Two Empires]] against [[Empress Aetheria]]'s orthodox claim — ultimately triumphing before being killed by [[The Spider God|the Secret God]].
+---
 
-# Culture and Year 1600 AI Status
+## Królestwa Korsarzy (1600 AI)
 
-Dark Elf culture represents a "dark mirror" of the imperial elvish civilization — retaining elvish organizational capability but combining it with:
-- Maritime mastery and oceanic adaptation.
-- Greater independence and self-governance traditions.
-- **The Corsair Kingdoms (Królestwa Korsarzy):** Powerful, independent island states that broke away from the empire. They are built on slavery, naval raids, and piracy.
-- **The Cult of Khaine:** In 1600 AI, [[Khaine]] is worshipped not as a mindless, bloodthirsty demon, but as the chilling, political personification of Dark Elf pride, martial excellence, and right to rule. He is viewed as a cold, strategic conqueror (a Malekith-esque figure) whose wrath will lead them to retake the mainland.
-
-# Other Notes
-
-The Dark Elves are a key example of the Echo Universe's theme that colonial experiments create cultures more durable than their creators. Their hybrid civilization — combining elvish tradition with maritime innovation — survived the [[Phoenix Empire]]'s collapse and continues to shape the world's balance of power.
+Po upadku Pierwszego Imperium, zbuntowani wyspiarze utworzyli niezależne **Królestwa Korsarzy**. W roku 1600 AI są one głównym źródłem niepokoju na Morzu Wewnętrznym:
+*   Ich gospodarka opiera się na piractwie, grabieżach szlaków handlowych oraz handlu niewolnikami.
+*   Większość z nich otwarcie wyznaje [[Khaine|Khaine'a]] jako patrona ich bezwzględnej natury.
+*   Ich okręty i taktyka wojenna łączą najnowszą technologię wczesnorenesansową z morskim rzemiosłem infuzyjnym (runami wzmacniającymi kadłuby przed sztormami).
 
 ---
 > [!note] Powiązane
 > - [[Elves]]
-> - [[Phoenix Empire]]
 > - [[Khaine]]
 > - [[War of Two Empires]]
+> - [[World History Timeline]]

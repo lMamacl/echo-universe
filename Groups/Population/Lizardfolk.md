@@ -6,67 +6,48 @@ tags:
 aliases:
   - Jaszczuroludzie
   - Lizard People
-cover-image:
-group_status: Active
+group_status: Aktywna
 ---
+# Jaszczuroludzie (Lizardfolk)
+
 > [!infobox]
-> # Lizardfolk
-> ###### About
-> | Type | Magically-evolved human subspecies |
+> # Jaszczuroludzie
+> ###### O grupie
+> | Typ | Ludzie poddani częściowej transmutacji cielesnej |
 > | ---- | ---- |
-> | Other Titles | Jaszczuroludzie |
-> | Location(s) | Eastern heartlands (swamps, river deltas), Southern Continent |
-> | Member Count | Large (fragmented) |
-> | Prominent Ideologies/Beliefs | Communal nature spirits, The Great Harmony |
-> | Languages | Lizardfolk tongues |
+> | Inne nazwy | Lizard People, Jaszczury |
+> | Główne lokacje | Mokradła i delty rzek wschodnich, Kontynent Południowy |
+> | Ideologia / Wiara | Kręgi Wylęgowe, Wielka Harmonia |
+> | Język | Języki jaszczurze i dialekty lokalne |
 
-# Description
+## Prawdziwa Natura i Anatomia
 
-The Lizardfolk (Jaszczuroludzie) are a major civilization of the Echo Universe. Unlike generic fantasy reptiles, **the vast majority of the Lizardfolk population are physically and biologically human**. 
+Wbrew powszechnym legendom na Północy, Jaszczuroludzie nie są humanoidalnymi gadami zrodzonymi z odrębnej linii biologicznej. Zgodnie z antropocentrycznym fundamentem świata, są oni ludźmi (*Homo sapiens*):
 
-Their distinctive "reptilian" nature is not a species-wide trait, but a caste-based distinction:
-- **The Human Base:** Around 90% of the population are fenotypically human, sharing the same basic biology and inter-fertility as other peoples of the world.
-- **The Transmutated Castes:** Only specific, select castes (such as high-level shamans, elite guardians, and rulers) possess permanent lizard-like traits (scales, cold blood, reptilian eyes, tail structures). These traits were forcefully engineered or inherited via Lamarckian genetic markers after centuries of draconic flesh-weaving.
-- **Inter-fertility:** Because the base population is human, they are fully inter-fertile with Elves and other human groups. Children born of cross-unions generally inherit the human base, though dormant transmutative traits can occasionally manifest.
+*   **Zwykła Populacja:** Ponad 90% społeczeństwa to zwykli ludzie, którzy fizycznie nie różnią się od innych nacji, poza kulturowym i fizjologicznym przystosowaniem do życia w wilgotnym klimacie bagiennym (np. odporność na choroby tropikalne).
+*   **Kasty Transmutowane:** Jedynie nieliczne, rządzące kasty (wojownicy, szamani oraz elita dworska) zostały trwale przekształcone za pomocą zakazanej magii transmutacji ciał (Cielesnego Tkania) przez dawnych magów i smoczych władców. Te kasty posiadają permanentne gadzie cechy dziedziczne:
+    *   Rogowe łuski na ciele zapewniające naturalną ochronę.
+    *   Gadzią strukturę oczu, ogony lub dłonie o zmienionej motoryce.
+    *   Częściową zmiennocieplność, co ogranicza ich występowanie do ciepłych stref klimatycznych.
 
-Their communal divine structure — entities born from collective belief sustained through shared ritual rather than institutional hierarchy — proved both their initial weakness and eventual salvation against the [[Phoenix Empire]].
+---
 
-# History
+## Kultura i Spawning Circles (Kręgi Wylęgowe)
 
-## The Communion Territories (-7500 to -6500)
-Vast swampland and river delta civilizations organized around communal nature spirits. Their **Spawning Circles (Kręgi Wylęgowe)** served as democratic assemblies and ritual sites. 
-- *The Spawning Circles* are not biological nesting grounds for laying eggs, but sacred aquatic arenas where young members of the transmutated castes undergo ritual Echo-immersion to awaken their genetic reptilian traits.
-- They were masters of biological magic, aquaculture, and weather prediction, developing the philosophical system of "The Great Harmony" — balancing individual needs with communal survival.
+Kultura Jaszczuroludzi jest silnie kolektywna i opiera się na filozofii **Wielkiej Harmonii** (balansu między jednostką a dobrem bagiennego ekosystemu).
+*   **Kręgi Wylęgowe:** Zgromadzenia ludności odbywające się w świętych miejscach narodzin i spawnach. Służą jako fora demokratyczne do podejmowania wspólnych decyzji oraz ceremonii transferu energii Echa.
+*   **Magia Biologiczna:** Jaszczuroludzie słyną z niezwykłego zrozumienia inżynierii biologicznej, akwakultury i manipulowania florą rzeczną za pomocą precyzyjnej magii opartej na wiedzy przyrodniczej.
 
-## Resistance to the Phoenix (-4800 to -4650)
-When the [[Phoenix Empire]] invaded, the Lizardfolk's decentralized political organization made them impossible to conquer through conventional means — no royal courts to strike, no military commands to capture. Their resistance "resembled fighting fog."
+---
 
-### The [[Council of Scales]] (-4770)
-Desperate unification of major nation-leaders. Their shamans pursued forbidden knowledge, performing the **Dragon-Birth Ritual** (-4765) — transforming council leaders into the first dragons through dark magic fusion of leadership souls with wyvern flesh.
+## Rola w Historii
 
-### The Great Reversal (-4760 to -4750)
-Dragon-led resistance halted Phoenix advance, establishing territorial stalemate. However, dark magic corrupted the dragon leaders, causing the Splintering (-4630) and centuries of internal conflict.
-
-## Colonial Period
-Western Lizardfolk territories came under Phoenix colonial administration, creating the first colonial state with hybrid governance. Eastern heartlands remained under dragon dominion.
-
-# Culture
-
-- **Communal Spirituality:** Religion flows like water through communities — adaptable, omnipresent, but difficult to grasp or control.
-- **Ritual Caste Transmutation:** The Spawning Circles provide a model of collective decision-making and the spiritual center for caste transmutation.
-- **Biological Magic:** Masters of ecosystem manipulation, aquaculture, and wetland engineering.
-- **The Great Harmony:** Philosophy balancing individual needs with communal survival.
-
-# Other Notes
-
-The Lizardfolk's legacy is complex. Their communal approach to Echo magic and governance provided genuine alternatives to the hierarchical models of the [[Elves]], but their desperate resort to dark magic in the Dragon-Birth Ritual unleashed forces that continue to haunt the world — the Dragons of the Dragon Lands, including [[Raicha]] the Draconic Lich Queen.
-
-- [ ] TODO: Define specific physical characteristics of Lizardfolk transmutation
-- [ ] TODO: Develop current status of Lizardfolk communities under dragon/colonial rule
+*   **Rada Łusek (-4770 PI):** Koalicja państw Jaszczuroludzi utworzona w celu powstrzymania inwazji Pierwszego Imperium.
+*   **Narodziny Smoków (-4765 PI):** Szamani Rady Łusek zrosili dusze przywódców z ciałami wyvern. Te smoki obroniły bagna, ale popadły w szaleństwo i uciekły na zachód (Kraina Smoków).
+*   **Status w 1600 AI:** Część wschodnich terytoriów cieszy się niezależnością, podczas gdy plemiona zachodnie żyją w dawnych koloniach imperialnych na Południu, zachowując strukturę kastową pod kontrolą lokalnych regentów.
 
 ---
 > [!note] Powiązane
-> - [[Elves]]
+> - [[Council of Scales]]
 > - [[Raicha]]
-> - [[Phoenix Empire]]
 > - [[World History Timeline]]

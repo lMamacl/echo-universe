@@ -5,68 +5,42 @@ tags:
   - royal
   - echo-universe
 aliases:
-  - Aetheria the Restorer
-cover-image:
-token-image:
-char_affiliation: "[[Phoenix Empire]]"
-char_status: Deceased
+  - Aetheria Odnowicielka
+  - Cesarzowa Aetheria
+char_affiliation: "[[Phoenix Empire|Pierwsze Imperium]]"
+char_status: Zmarła
 ---
+# Cesarzowa Aetheria
+
 > [!infobox]
-> # Empress Aetheria
-> ###### About
-> | Titles | Empress Aetheria the Restorer |
+> # Cesarzowa Aetheria
+> ###### O postaci
+> | Tytuły | Cesarzowa Aetheria Odnowicielka |
 > | ---- | ---- |
-> | Gender | Female |
-> | Species | Elf |
-> | Position | Self-proclaimed Phoenix Empress |
-> | Born | Unknown |
-> | Died | -2887 (Magical Catastrophe) |
-> | Reign | -2950 to -2887 |
-> | Residence | Phoenix Homeland |
-> | Status | Dead |
-> | Languages | Imperial Elvish |
-> | Relatives | Phoenix homeland nobility (traditional bloodlines) |
+> | Płeć | Kobieta |
+> | Rasa | [[Elves\|Elf]] |
+> | Pozycja | Ostatnia pretendentka do tronu Pierwszego Imperium |
+> | Śmierć | -2887 PI (Katastrofa Magiczna) |
+> | Panowanie | -2950 PI do -2887 PI |
+> | Siedziba | Metropolia Elfów (Złote Miasto) |
 
-# About Empress Aetheria
+## Kim była Aetheria
 
-Empress Aetheria the Restorer was the last claimant to the legitimate [[Phoenix Empire]] succession through traditional bloodlines. She represented the Orthodox faction — traditional imperial authority based on hereditary right — against [[Khaine]]'s Avatar, who claimed the empire through right of divine strength.
+Cesarzowa Aetheria Odnowicielka była ostatnią władczynią roszczącą sobie prawo do sukcesji po [[Phoenix Emperor|Cesarzu Feniksie]] na mocy tradycyjnej linii krwi. Reprezentowała Frakcję Ortodoksyjną (arystokrację metropolii elfów wierną tradycji dynastycznej) przeciwko Avatarowi [[Khaine|Khaine'a]] — charyzmatycznemu wodzowi Mrocznych Elfów, który twierdził, że imperium należy się temu, kto posiada największą siłę militarną i boskie namaszczenie boga wojny.
 
-## Appearance
+---
 
-Not described in the historical record.
+## Rola w Historii i Upadek
 
-## Personality
+*   **Sukcesja (-2950 PI):** Po ostatecznym rozpadzie świadomości Feniksa na Okruchy Żaru, arystokracja ogłosiła Aetherię cesarzową, co miało zapobiec rozpadowi imperium.
+*   **Kampanie Wojenne (-2940 do -2890 PI):** Prowadziła wyniszczające wojny z buntownikami. Trudne warunki klimatyczne, przewaga morska Mrocznych Elfów oraz najazd lądowy czempiona Khaine'a doprowadziły do Oblężenia Złotego Miasta (-2920 PI).
+*   **Zakazany Rytuał i Śmierć (-2888 do -2887 PI):** Widząc nieuchronną klęskę, Aetheria wpadła w desperację. Sięgnęła po zakazaną magię transmutacji ciał (Cielesnego Tkania) oraz bezpośredniego manipulowania Zasłoną, by stworzyć nowe, potężne źródło zasilania (Forbidden Ritual). Rytuał wymknął się spod kontroli, generując katastrofalną falę energii Echa, która spaliła i unicestwiła obie armie, zabijając samą cesarzową.
+*   **Konsekwencje:** Katastrofa zniszczyła Złote Miasto i otworzyła drogę do krótkich, krwawych rządów Avatara Khaine'a, zanim interweniował Sekretny Bóg.
 
-A figure of restoration and legitimacy, Aetheria sought to reclaim the glory of the Phoenix Empire through traditional means. Her eventual resort to the Forbidden Ritual suggests growing desperation as the conventional approach failed.
+---
+## Zdolności i Charakter
 
-# History
-
-## The Rival Claims (-2950)
-As the Phoenix consciousness completed its fragmentation, Aetheria was proclaimed Empress by Phoenix homeland nobility. She represented the continuation of imperial tradition and bloodline succession.
-
-## The Great Campaigns (-2940 to -2890)
-Aetheria launched a western offensive to reclaim rebellious eastern territories from [[Khaine]]'s Avatar. The campaigns were devastating:
-- Naval Wars (-2935 to -2920): [[Dark Elves|Dark Elf]] maritime supremacy disrupted imperial supply lines
-- Continental Campaign: Khaine's Avatar led a massive land invasion of the Phoenix heartland
-- Siege of the Golden City (-2920 to -2910): A year-long siege of the Phoenix capital
-
-## The Forbidden Ritual and Death (-2888 to -2887)
-In desperation, Aetheria attempted to bind new divine power through dark magical practices — the Forbidden Ritual. The uncontrolled magical forces destroyed both armies in the final battle, killing Aetheria herself. [[Khaine]]'s Avatar survived the catastrophe and briefly claimed the Phoenix throne.
-
-# Abilities
-
-Aetheria possessed the authority of Phoenix bloodline succession and the resources of the imperial homeland. Her attempt at the Forbidden Ritual suggests she had some command of dark magic, though ultimately insufficient to control it.
-
-# Relationships
-| Characters | Relationship | Notes |
-| ---------- | ------------ | ----- |
-| [[Khaine]]'s Avatar | Mortal enemy | Rival claimant to Phoenix succession |
-| [[Phoenix Emperor]] | Distant descendant | Claimed legitimacy through bloodline |
-| Phoenix Nobility | Supporters | Homeland aristocracy backed her claim |
-
-# Other Notes
-
-Aetheria's story illustrates the Echo Universe's recurring theme: the corrupting desperation that drives even legitimate rulers to dark magic. Her Forbidden Ritual — intended to save the empire — instead destroyed both armies and paved the way for Khaine's brief triumph and the empire's final collapse.
+Aetheria była zdeterminowaną, dumną władczynią oddaną idei imperialnej. Jej tragiczna historia ilustruje główny motyw uniwersum: desperację, która popycha nawet najbardziej prawych przywódców do sięgnięcia po ciemną magię w imię wyższych celów, co ostatecznie przynosi zgubę im samym i ich poddanym.
 
 ---
 > [!note] Powiązane

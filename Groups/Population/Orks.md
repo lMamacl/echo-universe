@@ -7,45 +7,51 @@ aliases:
   - Zmienieni
   - Orkowie
   - Orks
-cover-image:
-group_status: Active (marginalized)
+group_status: Aktywna (marginalizowana)
 ---
+# Orkowie (Zmienieni)
+
 > [!infobox]
-> # Orks (Zmienieni)
-> ###### About
-> | Type | Magically-engineered human subspecies |
+> # Orkowie (Zmienieni)
+> ###### O grupie
+> | Typ | Magicznie stworzona rasa ludzka (*Homo sapiens*) |
 > | ---- | ---- |
-> | Other Titles | Zmienieni, Orkowie |
-> | Location(s) | Western Peninsula, core territories of the [[Second Empire]] |
-> | Member Count | Significant minority |
-> | Prominent Ideologies/Beliefs | Civil rights movements, secular survival |
-> | Languages | Imperial tongues |
+> | Inne nazwy | Zmienieni, Orkowie |
+> | Główne lokacje | Półwysep Zachodni, centralne prowincje [[Second Empire\|Drugiego Imperium]] |
+> | Status społeczny | Zmarginalizowana mniejszość, ruchy emancypacyjne |
+> | Język | Języki imperialne |
 
-# Description
+## Opis i Charakterystyka
 
-The **Orks (Zmienieni)** are a magically-engineered human subspecies. They are not a natural evolutionary branch, but the product of brutal **transmutation (flesh weaving)** experiments conducted during the high-medieval era.
+**Orkowie (Zmienieni)** są podgatunkiem ludzkim stworzonym sztucznie za pomocą magii. Nie wyewoluowali w sposób naturalny, lecz stanowią rezultat brutalnych, wielopokoleniowych eksperymentów z zakresu **transmutacji cielesnej (Cielesnego Tkania)** przeprowadzonych w okresie średniowiecznym.
 
-Despite their monstrous appearance, they share a human genetic base and are inter-fertile with other humans.
+Mimo odmiennego i groźnego wyglądu, posiadają ludzki kod genetyczny i są w pełni inter-fertylni z resztą populacji ludzkiej.
 
-# History
+---
 
-## The Chimera War (1100-1200 AI)
-During the height of the Crusades, a major secessionist faction of rogue mages and aristocrats sought to break the monopoly of the [[Church of the Phoenix]]. In their laboratories, they engaged in the forbidden art of flesh-weaving, fusing human serfs and prisoners with the essence of predatory beasts. The resulting soldiers — the Zmienieni — possessed incredible physical strength, high pain tolerance, and dense, greyish-green skin.
+## Historia
 
-The mages ultimately lost control of their creations. Influenced by corrupting Echo forces, many Zmienieni rebelled or mutated further into feral monsters. After the coalition's defeat, the surviving Zmienieni slowly regained their free will as the magical influence decayed.
+### Wojna Chimeryczna (1100–1200 AI)
+Podczas apogeum Krucjat, silna koalicja zbuntowanych magów i magnatów podjęła próbę obalenia monopolu [[Church of the Phoenix|Kościoła Feniksa]]. W tajnych laboratoriach sięgnęli po zakazaną magię transmutacji ciał, zlewając esencję drapieżnych bestii z Echa z ciałami chłopów i jeńców wojennych. W ten sposób stworzono Zmienionych — idealnych żołnierzy o potężnej sile, wysokiej tolerancji na ból i szaro-zielonej, grubej skórze.
 
-## Post-War Integration (1300-1600 AI)
-For centuries, the Zmienieni were hunted down or kept in chains. Over generations, they stabilized as a distinct underclass. In the present day (1600 AI), they live in segregated urban slums and work as miners, dockers, and heavy infantry mercenaries.
+Z czasem magowie utracili kontrolę nad swoimi dziełami pod wpływem demonicznej skazy z Echa. Po klęsce buntu i wygaśnięciu demonicznego wpływu, Zmienieni powoli odzyskali pełną wolną wolę i rozum.
 
-# Biology and Genetics
+### Integracja Powojenna (1300–1600 AI)
+Przez stulecia Zmienieni byli prześladowani, polowano na nich i trzymano w niewoli. Z czasem ich populacja ustabilizowała się jako najniższa kasta społeczna. W roku 1600 AI zamieszkują getta w wielkich miastach portowych i przemysłowych Półwyspu Zachodniego, pracując głównie fizycznie jako dokerzy, górnicy oraz najemni żołnierze piechoty.
 
-- **Physical Traits:** Large muscular stature, high density of bones and muscles, greyish or green-tinted skin, and resistance to cold and physical trauma.
-- **Inter-fertility:** Fully inter-fertile with humans.
-- **Half-Orks (Półorkowie):** Unions between humans and Orks produce half-orks, who often inherit the raw strength of the Ork parent combined with standard human appearance. Many half-orks find employment in the military or city guards.
+---
 
-# Present Status (1600 AI)
+## Biologia i Genetyka
 
-With the arrival of the Renaissance and early humanistic reforms, the Zmienieni are organizing. Early civil rights movements are emerging, demanding an end to segregation, equal wages, and representation in the regional councils. However, the deep-seated fear and systemic racism inherited from the Chimera War remain massive barriers.
+*   **Cechy Fizyczne:** Potężna, muskularna postura, wysoka gęstość kości i mięśni, charakterystyczna szaro-zielona skóra oraz duża odporność na zimno i obrażenia mechaniczne.
+*   **Inter-fertylność:** Orkowie mogą mieć potomstwo z ludźmi i elfami (krzyżowanie z ludźmi jest bardziej kompatybilne).
+*   **Półorkowie (Half-Orks):** Potomkowie ze związków ludzi i orków dziedziczą siłę i wytrzymałość orka, zachowując jednak ludzką aparycję. Często znajdują zatrudnienie w straży miejskiej lub armii zawodowej.
+
+---
+
+## Status Społeczny (1600 AI)
+
+Wraz z nastaniem renesansu i pierwszych reform humanistycznych na Północy, Zmienieni zaczynają się organizować. Powstają pierwsze ruchy emancypacyjne domagające się likwidacji gett, równych płac oraz dopuszczenia do rad miejskich. Napotykają one jednak na silny opór, systemowy rasizm i lęk społeczny zakorzeniony od czasów Wojny Chimerycznej.
 
 ---
 > [!note] Powiązane

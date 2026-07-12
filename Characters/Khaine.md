@@ -6,69 +6,43 @@ tags:
   - echo-universe
 aliases:
   - Kayne
-  - The War-God
-  - God of War
-cover-image:
-token-image:
-char_affiliation: "Independent (Outcast)"
-char_status: Imprisoned
+  - Bóg Wojny
+  - Bóg Tyranii
+char_affiliation: "Niezależny (Wygnaniec)"
+char_status: Uwięziony / Aktywny w roku 1600 AI
 ---
+# Khaine (Kayne)
+
 > [!infobox]
 > # Khaine
-> ###### About
-> | Titles | God of Tyranny, War, and Control |
+> ###### O postaci
+> | Tytuły | Bóg Tyranii, Wojny i Kontroli |
 > | ---- | ---- |
-> | Gender | Male |
-> | Species | [[Apotheosis and Divinity\|Echo-God]] |
-> | Domain(s) | Tyranny, War, Control |
-> | Worship locations | Underground / [[Dark Elves\|Dark Elf]] territories |
-> | Relationships | Nemesis of [[Phoenix Emperor]] |
+> | Płeć | Mężczyzna |
+> | Rasa | [[Apotheosis and Divinity\|Bóg Echa]] |
+> | Domeny | Wojna, Tyrania, Kontrola, Krwawa Walka |
+> | Główne obszary kultu | Królestwa Korsarzy, podziemia [[Second Empire\|Drugiego Imperium]] |
 
-# About Khaine
+## Kim jest Khaine
 
-Khaine is the War-God of the Echo Universe — the only deity who refused to submit to the [[Phoenix Emperor]]'s authority during the Divine Submission of -5280. His defiance created the first great schism in the new divine order, establishing a pattern of resistance that would echo through millennia. His persistence, despite persecution and ostracism, suggests something profound about the nature of war itself — that conflict, once unleashed, develops its own inexorable momentum, independent even of divine politics.
+Khaine (Kayne) to bóstwo wojny i tyranii. Jako jedyny z dawnych bogów Echa odmówił poddania się woli [[Phoenix Emperor|Cesarza Feniksa]] podczas Boskiego Podporządkowania w -5280 PI. Spowodowało to demontaż jego kultu, a jego samego uczyniło uciekinierem ukrywającym się w najgłębszych zakamarkach Immaterium.
 
-# History
+W roku 1600 AI, pomimo uwięzienia w celi stworzonej przez Sekretnego Boga pod koniec [[War of Two Empires|Wojny Dwóch Imperiów]] (-2886 PI), Khaine pozostaje aktywny i niebezpieczny. Stał się on uosobieniem bezwzględnej, dumnej i bezlitosnej natury Mrocznych Elfów — postacią przypominającą Malekitha z Warhammera Fantasy, władającą niszczycielską ideą walki i panowania.
 
-## Defiance (-5275)
-When the exhausted Aethani pantheon submitted to the Phoenix Emperor after the [[The Echo Shattering|Ragnarök]], Khaine alone refused. His followers were systematically persecuted, their cultural and religious infrastructure dismantled — transforming him from pantheon member to underground deity, from official cult to whispered heresy.
+---
 
-## Return (-3030)
-When the Phoenix consciousness began fragmenting, Khaine was the first god to emerge from obscurity. Never bound by the Divine Veil System, he was the first to establish a new divine champion — choosing a charismatic [[Dark Elves|Dark Elf]] leader as his mortal vessel.
+## Historia i Aktywność w roku 1600 AI
 
-## The War of Two Empires (-2950 to -2886)
-Khaine's Avatar rose as a rival claimant to the Phoenix succession, representing divine mandate through warfare against [[Empress Aetheria]]'s traditional bloodline authority. After devastating campaigns, the Avatar triumphed and ruled through terror for a brief period known as the Blood Months.
-
-## Imprisonment (-2886)
-The Secret God — a long-dormant deity of secrets and hidden knowledge — manifested and killed Khaine's Avatar, binding the war-god to a magical prison realm. There, Khaine underwent gradual psychological destruction through mystical imprisonment, descending into madness.
-
-# Appearance
-
-Unknown — Khaine's physical manifestation has not been described in the historical record. As an Echo-God, his form is likely a conceptual projection of war, tyranny, and domination.
-
-# Relationships
-| Characters | Relationship | Notes |
-| ---------- | ------------ | ----- |
-| [[Phoenix Emperor]] | Sworn enemy | The only god to refuse submission |
-| Khaine's Avatar | Divine champion | Charismatic Dark Elf war-leader |
-| The Secret God | Captor | Killed his Avatar, imprisoned him |
-| [[Empress Aetheria]] | Rival | Opposed her in the War of Two Empires |
-
-# Abilities
-
-As a War-God, Khaine embodies the concept of conflict itself. His power manifests through:
-- Empowering divine champions with martial prowess
-- Inspiring fanatical loyalty in warriors
-- The inherent momentum of warfare — once unleashed, impossible to contain
-
-His followers in the [[Dark Elves|Dark Elf]] island colonies maintained his worship during the millennia of Phoenix suppression, developing unique martial-religious traditions.
-
-# Other Notes
-
-Khaine's current status is imprisonment and gradual madness within a mystical prison realm. His followers — particularly among the Corsair Kingdoms — remain devoted despite his binding. The question of whether a mad god of war can still empower his followers remains one of the world's great theological uncertainties.
+*   **Bunt (-5275 PI):** Odrzucenie panowania Feniksa. Wyznawcy Khaine'a zeszli do podziemia, tworząc sekty i bractwa wojskowe, które przetrwały stulecia.
+*   **Powrót i Wojna (-3030 do -2886 PI):** Po rozpadzie Feniksa Khaine powrócił, wybierając charyzmatycznego Mrocznego Elfa na swojego Avatara. Doprowadziło to do krwawej Wojny Dwóch Imperiów, z której Avatar wyszedł zwycięsko, rozpoczynając krwawy okres znany jako Krwawe Miesiące.
+*   **Uwięzienie (-2886 PI):** Pokonany i uwięziony przez Sekretnego Boga w metafizycznej celi w Płaszczyźnie Echa. Khaine przechodzi tam powolną destrukcję psychiczną, popadając w szaleństwo.
+*   **Obecny Kult (1600 AI):**
+    *   **Królestwa Korsarzy:** Mroczne Elfy na wschodnich wyspach czczą go jako bóstwo opiekuńcze, usprawiedliwiające ich piractwo i handel niewolnikami.
+    *   **Bractwo Czerwonej Rdzy:** Tajny, niebezpieczny kult w centralnych prowincjach Drugiego Imperium. Jego członkowie wierzą, że wywołanie totalnej wojny dostarczy dość energii z bólu i przelewu krwi, by rozbić więzienie Khaine'a i zamanifestować go ponownie w świecie materialnym.
 
 ---
 > [!note] Powiązane artykuły
 > - [[War of Two Empires]]
 > - [[Phoenix Emperor]]
 > - [[Dark Elves]]
+> - [[Apotheosis and Divinity]]

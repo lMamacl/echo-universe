@@ -5,51 +5,43 @@ tags:
   - echo-universe
 aliases:
   - Wielkie Wyspy Zachodnie
-  - Phoenix Homeland
-  - Elvish Homeland
-cover-image:
+  - Ojczyzna Feniksa
 ---
+# Wielkie Wyspy Zachodnie
+
 > [!infobox]
-> # Great Western Isles
-> ###### About
-> | Location Type | Archipelago |
+> # Wielkie Wyspy Zachodnie
+> ###### O regionie
+> | Typ lokacji | Archipelag |
 > | ---- | ---- |
-> | Other Titles | Wielkie Wyspy Zachodnie, Phoenix Homeland |
-> | Area | Major archipelago on the Inner Sea |
-> | Prominent locations within Great Western Isles | The Golden City (Phoenix Capital) |
+> | Inne nazwy | Kolebka Elfów, Ziemie Święte |
+> | Lokalizacja | Morze Wewnętrzne, na zachód od Kontynentu Południowego |
+> | Kluczowe punkty | Złote Miasto (dawna stolica) |
 
-# Description
+## Opis i Znaczenie
 
-## About
+Wielkie Wyspy Zachodnie to archipelag leżący na Morzu Wewnętrznym. Według elfiej mitologii jest to oryginalna kolebka rasy [[Elves|Elfów]] (Wysokich Elfów). To z tego miejsca [[Phoenix Emperor|Cesarz Feniks]] rozpoczął swój wielki podbój, jednocząc świat i ogłaszając powstanie [[Phoenix Empire|Pierwszego Imperium]].
 
-The Great Western Isles are an archipelago on the Inner Sea (Morze Wewnętrzne), located west of the [[Southern Continent]]'s main landmass. According to myth, this is the **original homeland of the human race** — or at least of the [[Elves|elven]] branch that would dominate world history. It was from here that the [[Phoenix Emperor]] launched his great conquest, founding the [[Phoenix Empire]].
+---
 
-## Features
+## Historia i Znaczenie Religijne
 
-The archipelago's most notable feature was the Golden City — the capital of the [[Phoenix Empire]], which endured the year-long Siege of the Golden City (-2920 to -2910) during the [[War of Two Empires]] before finally falling.
+*   **Era Przedimperialna:** Miejsce zwycięstwa Frakcji Niebiańskiej nad Frakcją Naturalną w Boskiej Wojnie Domowej elfów (-6000 PI). Ustanowienie pierwszej ortodoksji.
+*   **Narodziny Feniksa (-5450 PI):** Narodziny Cesarskiego Bytu w sercu kataklizmu Rozszczepienia Echa.
+*   **Stolica Złotego Miasta:** Wyspy stanowiły centrum administracyjne i religijne Pierwszego Imperium. Sercem archipelagu było Złote Miasto, słynące z gigantycznych świątyń istniejących częściowo w Płaszczyźnie Echa.
+*   **Oblężenie Złotego Miasta (-2920 do -2910 PI):** Podczas Wojny Dwóch Imperiów miasto było oblegane przez siły Khaine'a przez rok. Jego ostateczny upadek i zniszczenie w wyniku katastrofy magicznej cesarzowej Aetherii stały się symbolem końca ery imperium.
 
-The islands are described as having "imperial ambitions" — a culture oriented toward expansion and domination from their earliest formation.
+---
 
-## Populations
+## Status w roku 1600 AI
 
-Historically the heart of [[Elves|elven]] (High Elf) civilization. After the [[Phoenix Empire]]'s collapse, the homeland was devastated by the [[War of Two Empires]] and the subsequent Dark Ages. Its current demographic and political status under the [[Second Empire]] remains to be developed.
+W erze renesansu wyspy są w dużej mierze wyludnione i zrujnowane po stuleciach wojen i katastrof Wieków Ciemnych. Mają jednak ogromne znaczenie symboliczne:
+*   **Ziemia Święta:** [[Church of the Phoenix|Kościół Feniksa]] traktuje wyspy jako najświętsze miejsce na ziemi, cel pielgrzymek oraz punkt poszukiwań zaginionych Okruchów Żaru.
+*   **Anomalie Echa:** Ruiny Złotego Miasta są niezwykle niestabilne. Bariera Zasłony jest tu bardzo cienka, przez co obszar ten nawiedzają widma przeszłości (powidoki w Echu) oraz niebezpieczne bestie zrodzone z wojennej traumy.
 
-## Climate
-
-Mediterranean-equivalent, with the temperate maritime conditions typical of major archipelagos.
-
-# History
-
-- **Pre-Imperial:** Mythical homeland of elven civilization. The Celestial faction of the elven pantheon achieved dominance here (-6000 to -5500).
-- **Birth of the Phoenix (-5450):** The [[Phoenix Emperor]] was born here during the [[The Echo Shattering|Echo Shattering]].
-- **Imperial Era (-5260 to -2886):** Served as the imperial heartland and seat of the [[Phoenix Empire]].
-- **Siege of the Golden City (-2920 to -2910):** Year-long siege during the [[War of Two Empires]] symbolized the Empire's collapse.
-- **The Blood Months (-2887 to -2886):** [[Khaine]]'s Avatar ruled from here in terror before being killed by [[The Spider God|the Secret God]].
-- **Post-Imperial:** Devastated by centuries of warfare, the islands' role in the current era remains to be defined.
-
-# Other Notes
-
-The Great Western Isles hold a position analogous to Atlantis or a mythical lost homeland — the origin point of civilization that has since been eclipsed by the continental powers it spawned. The [[Church of the Phoenix]] likely treats the islands as a sacred site, regardless of their current political status.
-
-- [ ] TODO: Define current status of the Great Western Isles under the [[Second Empire]]
-- [ ] TODO: Develop the Golden City's architecture and significance
+---
+> [!note] Powiązane
+> - [[Elves]]
+> - [[Phoenix Emperor]]
+> - [[Phoenix Empire]]
+> - [[Second Empire]]

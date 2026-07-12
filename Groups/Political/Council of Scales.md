@@ -5,47 +5,42 @@ tags:
   - echo-universe
 aliases:
   - Rada Łusek
-cover-image:
-group_status: Dissolved (members transformed)
+group_status: Rozwiązana (członkowie przeobrażeni)
 ---
+# Rada Łusek
+
 > [!infobox]
-> # Council of Scales
-> ###### About
-> | Type | Emergency Military Coalition |
+> # Rada Łusek
+> ###### O sojuszu
+> | Typ | Wojskowa koalicja obronna Jaszczuroludzi |
 > | ---- | ---- |
-> | Other Titles | Rada Łusek |
-> | Headquarters/Capital | [[Lizardfolk]] eastern heartlands |
-> | Leader(s) | Major Lizardfolk nation-leaders |
-> | Member Count | All major Lizardfolk nations |
-> | Ideology/Beliefs | Survival through unity |
-> | Languages | Lizardfolk tongues |
-> | Status | Dissolved — leaders transformed into dragons (-4765) |
+> | Lokacja | Mokradła i delty rzeczne (Kontynent Południowy) |
+> | Przywódcy | Wodzowie i szamani głównych plemion Jaszczuroludzi |
+> | Status | Rozwiązana po przeobrażeniu przywódców w smoki (-4765 PI) |
+> | Cel | Powstrzymanie ekspansji legii Pierwszego Imperium |
 
-# Description
+## Opis i Rola Historyczna
 
-The Council of Scales was the unprecedented temporary unification of the [[Lizardfolk]]'s largest nations, formed in -4770 in response to the existential threat of [[Phoenix Empire]] expansion. It represented a moment unique in Lizardfolk history — the subordination of territorial and tribal differences to existential necessity.
+Rada Łusek była bezprecedensowym, tymczasowym sojuszem politycznym i wojskowym zawiązanym w -4770 PI przez rozproszone plemiona i państwa [[Lizardfolk|Jaszczuroludzi]] w obliczu śmiertelnego zagrożenia ze strony legii [[Phoenix Empire|Pierwszego Imperium]].
 
-# History
+Początkowo partyzancka wojna Jaszczuroludzi na mokradłach paraliżowała legie elfów, jednak przewaga organizacyjna imperium zmusiła wodzów do podjęcia desperackich środków.
 
-## Formation (-4770)
-As Phoenix legions exploited Lizardfolk political fragmentation during their initial penetration (-4800 to -4780), the larger nation-leaders recognized that their communal spirituality, while providing resilience against cultural domination, offered insufficient martial power against the Phoenix war machine.
+---
 
-## The Forbidden Knowledge
-The council's wisest spiritual guides delved into practices that had been deliberately forgotten — ancient techniques bearing uncomfortable resemblance to the powers that had once nearly shattered the world. Their ignorance of these techniques' true nature perhaps saved them from the philosophical paralysis that might have prevented their use.
+## Rytuał Narodzin Smoków (-4765 PI)
 
-## The Dragon-Birth Ritual (-4765)
-The ritual transformed the council leaders into the world's first dragons. The fusion of leadership souls with wyvern flesh, enhanced through dark magical processes, created beings that were simultaneously unprecedented and horrifyingly familiar. These first dragons retained their original personalities and motivations while gaining power that fundamentally altered their relationship with reality.
+Szamani i mędrcy zgromadzeni w Radzie Łusek sięgnęli po zapomnianą, niebezpieczną magię transmutacji ciał (Cielesnego Tkania):
+*   **Mechanizm:** Zroszono esencję i dusze przywódców wchodzących w skład Rady z ciałami prehistorycznych, drapieżnych gadów (wyvern).
+*   **Efekt:** Powstały pierwsze **Smoki** — potężne, lewitujące istoty o niszczycielskiej sile ognia, które zachowały intelekt i wspomnienia przywódców, zyskując jednocześnie pełne powinowactwo do Echa.
+*   **Zwycięstwo i Tragedia:** Przeobrażeni wodzowie bez trudu rozbili legie legitymujące się boskim mandatem Feniksa, zyskując panowanie w powietrzu i zmuszając imperium do odwrotu. Jednak ciemna magia rytuału wywołała Dysonans Cielesny. Cierpienie uwięzionej w obcym ciele ludzkiej świadomości doprowadziło smoki do paranoi, okrucieństwa i ostatecznego rozpadu sojuszu w -4630 PI.
 
-## Aftermath
-The military impact was devastating to Phoenix expansion — aerial supremacy and intimate knowledge of homeland geography created an insurmountable defensive advantage. However, the dark magic that created the dragons also corrupted them. The original unity, forged in defensive necessity, could not survive the intoxicating effects of newfound power. By -4630, the former council members had splintered into competing dragon factions.
+---
 
-# Organization
+## Dziedzictwo
 
-The Council was organized as a temporary coalition of equals — each nation-leader bringing their community's warriors and shamanic knowledge. It was democratic in structure, reflecting the Lizardfolk's communal traditions, but the existential crisis gave its decisions the weight of absolute necessity.
+Przeobrażeni członkowie Rady Łusek porzucili mokradła i odlecieli na zachód południowego kontynentu, gdzie założyli Krainę Smoków. Wśród nich wyróżniła się [[Raicha]], która stała się Draconic Lich Queen.
 
-# Other Notes
-
-The Council of Scales represents both the Lizardfolk's greatest triumph and their greatest tragedy. Their desperate gambit saved their people from Phoenix conquest, but the price was the corruption and eventual splintering of their greatest leaders. Among the transformed council members, [[Raicha]] emerged as perhaps the most powerful — becoming the Draconic Lich Queen who rules the Dragon Lands to this day.
+Mimo że sojusz przestał istnieć, ich poświęcenie na stałe zapisało się w historii Jaszczuroludzi, chroniąc wschodnie mokradła przed pełną asymilacją i narzuceniem imperialnego dogmatu.
 
 ---
 > [!note] Powiązane

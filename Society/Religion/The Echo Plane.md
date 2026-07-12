@@ -11,62 +11,40 @@ aliases:
   - The Void
   - Pustka
 ---
-# The Echo Plane
+# Płaszczyzna Echa
 
 > [!important] Kluczowy koncept
-> Płaszczyzna Echa jest fundamentem całego systemu magii i religii w Echo Universe. Wszystkie nadprzyrodzone zjawiska — magia, boskość, apoteoza — mają tutaj swoje źródło.
+> Płaszczyzna Echa (Immaterium, Pustka) jest fundamentem całego systemu magii i religii w Uniwersum Echa. Wszystkie zjawiska nadprzyrodzone — magia, boskość i apoteoza — mają tutaj swoje źródło.
 
-## Definicja
+## Definicja i Natura
 
-The Echo Plane (Płaszczyzna Echa, also known as Immaterium or The Void) is a parallel mental dimension — the fundamental, distinct plane of existence described as a "plane of total nothingness." Originally a state of non-being, it became connected to the collective consciousness of intelligent life, transforming into a reservoir of all thoughts, emotions, memories, ideas, and concepts. It is a chaotic, primordial vortex of mental energy.
-
-## Nature and Mechanics
-
-### Connection to Consciousness
-- The Echo Plane connected with collective consciousness as intelligent life evolved
-- It reflects desires, thoughts, and concepts in a plane of nothingness
-- The relationship is fundamentally uncertain: do we use the Echo, or does it use us?
+Płaszczyzna Echa to równoległy wymiar mentalny. Pierwotnie będący stanem całkowitej nicości (Pustki), połączył się ze zbiorową świadomością inteligentnych istot w miarę ich ewolucji. Stał się on rezerwuarem myśli, emocji, pragnień, wspomnień i pojęć — chaotycznym wirem energii mentalnej sprzężonym z siłą witalną świata materialnego.
 
 ### Spectra
-The first entities or phenomena to appear in the Echo Plane. Historical records state that "the emergence of consciousness creates the first Spectra in the Echo Plane." These may be:
-- Crystallized concepts
-- Echoes of strong emotions
-- Seedlings of ideas
-- The fundamental "building blocks" from which magical energy is drawn
+Spectra to pierwsze byty i skrystalizowane pojęcia, które pojawiły się w Płaszczyźnie Echa w wyniku przebudzenia świadomości śmiertelników. Stanowią one podstawowy budulec magii.
+*   **Ograniczony zasób:** Spectra są zasobem **ograniczonym**, bezpośrednio powiązanym z obecną siłą życiową i liczebnością myślących istot na świecie fizycznym.
 
-> [!warning] Nierozwiązane
-> The exact nature of Spectra remains undefined. See [[Introduction to the Echo Universe]] for open questions.
+### Zbliżenie Wymiarów (Tajemnica)
+Każda interakcja z Płaszczyzną Echa — każde użycie magii, modlitwa czy rytuał — wywołuje tarcie i powoli przybliża oba wymiary do siebie. Sprawia to, że surowa energia Echa powoli przenika do świata fizycznego, osłabiając Zasłonę. 
+Nie ma jasnej odpowiedzi na pytanie, czy Płaszczyzna Echa posiada własną formę świadomości (czy "żyje") oraz czy jej pełne nadejście i połączenie wymiarów doprowadzi do ostatecznej zagłady świata materialnego. Wiedza ta jest ukryta przed ogółem mieszkańców świata.
 
-### Natural Resonators
-Physical locations in the material world that naturally amplify or facilitate connection with the Echo Plane:
-- Sacred groves
-- Crystal caves
-- Ancient stones
+## Punkty Rezonansu (Naturalne Resonatory)
 
-The first organized tribes formed around these locations, suggesting that proximity to a Resonator was crucial for early magic use. They function as antennas or signal amplifiers between the physical world and the Echo Plane.
+Fizyczne miejsca w świecie materialnym, które ze względu na swoją strukturę lub historię naturalnie ułatwiają i potęgują połączenie z Płaszczyzną Echa:
+*   Święte gaje (bardzo silne rezonatory życiowe).
+*   Kryształowe jaskinie.
+*   Starożytne, megalityczne kamienie.
 
-## The Echo Plane as Source of Power
+Pierwsze prymitywne plemiona gromadziły się wokół tych punktów, ucząc się czerpać moc z Echa przed stworzeniem usystematyzowanych szkół i run.
 
-Magic in the Echo Universe does not come from mana or forces of nature. It is the act of **manifestation** — bringing a concept existing in the Echo into the material world. The full system of manifestation is documented in [[Magic System]].
+## Znaczenie Historyczne i Kataklizmy
 
-## The Echo Plane as Arena
-
-The Echo Plane is not just a passive source of power. It is also an arena where conflicts can unfold — and its damage has catastrophic consequences for the material world:
-
-- **[[The Echo Shattering]] (Ragnarök):** A massive conflict *within* the Echo Plane that tore holes between dimensions, causing the collapse of all four ancient world civilizations
-- **Divine Conflicts:** Gods reside within the Echo Plane and can wage war against each other there
-- **Monster Manifestation:** Collective psychic trauma (such as during the Crusades) can cause entities from the Echo Plane to materialize in the physical world
-
-## Theological Significance
-
-The Echo Plane is the medium through which all divine power operates:
-- **[[Apotheosis and Divinity|Apotheosis]]:** Complete transfer of consciousness into the Echo Plane, becoming a god
-- **Divine Intervention:** Gods act through the Echo Plane, communicating via dreams, visions, and inspirations
-- **Collective Faith:** The focus of many minds on one concept through the Echo Plane gives that concept real power
+Płaszczyzna Echa reaguje na masowe stany emocjonalne śmiertelników:
+*   **[[The Echo Shattering|Rozszczepienie Echa (Ragnarök)]]:** Wojna wewnątrz płaszczyzny mentalnej doprowadziła do fizycznego upadku czterech starożytnych cywilizacji.
+*   **Manifestacja Potworów:** Skumulowana trauma, nienawiść i ból całych narodów (np. podczas Krucjat w latach 1100–1300 AI) materializują się jako fizyczne, agresywne bestie i maszkary przenikające z Echa.
 
 ---
 > [!note] Powiązane dokumenty
 > - [[Magic System]]
 > - [[Apotheosis and Divinity]]
 > - [[Introduction to the Echo Universe]]
-> - [[Echo Universe — World Bible]]

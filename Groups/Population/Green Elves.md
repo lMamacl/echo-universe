@@ -5,66 +5,41 @@ tags:
   - echo-universe
 aliases:
   - Zielone Elfy
-  - Nature Elves
   - Leśne Elfy
-cover-image:
-group_status: Active (marginalized)
+  - Nature Elves
+group_status: Aktywna (marginalizowana/zasymilowana)
 ---
+# Zielone Elfy (Leśne)
+
 > [!infobox]
-> # Green Elves
-> ###### About
-> | Type | Magically-evolved [[Elves\|Elven]] subspecies (Nature-faction) |
+> # Zielone Elfy
+> ###### O grupie
+> | Typ | Linia [[Elves\|Elfów]] Frakcji Naturalnej |
 > | ---- | ---- |
-> | Other Titles | Zielone Elfy, Nature Elves, Leśne Elfy |
-> | Location(s) | Northern continent (Great Groves), scattered enclaves |
-> | Member Count | Significantly reduced (40% loss during Phoenix conquest) |
-> | Prominent Ideologies/Beliefs | [[Misha]] worship, Green Pact, nature-based Echo communion |
-> | Languages | Elvish (archaic dialect) |
+> | Inne nazwy | Leśne Elfy, Zieloni |
+> | Główne lokacje | Wielkie Gaje (Północ), niezależne konklawy |
+> | Ideologia / Wiara | Zielony Pakt, kult [[Misha\|Mishy]] |
+> | Język | Elfi (archaiczny dialekt) |
 
-# Description
+## Kim są Zielone Elfy
 
-The Green Elves are the descendants of the Natural faction of the ancient elven pantheon — those who worshipped gods of wilderness, growth, balance, and organic harmony rather than the Celestial faction's gods of order, civilization, and hierarchy. Defeated in the Divine Civil War, they were exiled from the elvish homeland and eventually conquered by the [[Phoenix Empire]], suffering devastating population loss.
+Zielone Elfy to potomkowie Frakcji Naturalnej starożytnego panteonu elfów — wyznawców bóstw puszczy, wzrostu i organicznej harmonii z Echem, którzy sprzeciwiali się hierarchii i urbanizacji Frakcji Niebiańskiej. Po klęsce w Wojnie Domowej zostali wypędzeni z ojczyzny, co zapoczątkowało ich exodus.
 
-Their patron deity [[Misha]] — the collective mind of the priestesses of the Green Pact — represents their unique approach to Echo magic: communion with nature rather than institutional divine worship.
+---
 
-# History
+## Historia i Asymilacja
 
-## The Divine Civil War (-6200 to -6000)
-The elven pantheon split between Celestial and Natural factions. The Green Elves (Natural faction) organized as loose confederations but were defeated by the Celestial faction's superior hierarchical organization.
+*   **Boska Wojna Domowa i Exodus (-6200 do -6000 PI):** Klęska Frakcji Naturalnej zmusiła wyznawców do ucieczki. Założyli oni kolonie w Wielkich Gajach na północnym kontynencie oraz rozproszone enklawy w innych regionach. Ich wiara skrystalizowała się w postać [[Misha|Mishy]] — kolektywnego bóstwa zrodzonego z umysłów kapłanek.
+*   **Podbój i Spustoszenie (-4200 do -3800 PI):** Ekspansja legii Pierwszego Imperium napotkała opór Zielonych pod wodzą Króla Cierni. Wojna partyzancka zakończyła się katastrofalnym wypaleniem lasów przez imperium (Wielkie Pożary, -4105 PI) oraz podpisaniem Grove Accords (-4100 PI). Wojna i przesiedlenia zniszczyły **40% populacji** Zielonych Elfów.
 
-## The Exodus (-6100 to -6000)
-- **The Purge of the Groves (-6080):** Systematic destruction of nature shrines and druidic communities
-- **The Great Flight:** Surviving nature-worshippers fled the elvish homeland in massive refugee movements
-- **Northern Shore Settlement (-6050):** First Green Elf colonies on the northern continent, founding the Great Groves
-- **Eastern Dispersal (-6030):** Enclaves established in [[Lizardfolk]] territories
-- **Spider Sanctuaries (-6010):** Most distant refugees reached Spider People lands
+### Status w roku 1600 AI
+*   **Głęboka Asymilacja:** W ciągu stuleci większość Zielonych Elfów zasymilowała się z dominującą kulturą Północnego Kontynentu. Porzucili oni dawne restrykcyjne zakazy Zielonego Paktu, przejmując styl życia, naukowe podejście do magii oraz wiarę w Aspekty.
+*   **Konklawy:** Jedynie nieliczne, izolowane grupy wciąż żyją w tradycyjnych, ukrytych konklawach leśnych, wiernie przestrzegając paktu z [[Misha|Mishą]] i stawiając opór postępowi technologicznemu Północy.
 
-## The Thorn King's Resistance (-4200 to -4150)
-When the [[Phoenix Empire]] expanded north, Aelion Thornweaver united scattered grove-communities under single command. Decades of guerrilla warfare in dense woodlands favored Green Elf defenders. Despite a tactical victory at the Last Stand of Silverleaf Grove (-4155), Aelion fell from his wounds. His martyrdom inspired continued resistance.
-
-## Conquest and Devastation (-4150 to -3800)
-- The Thorn Bands: Persistent guerrilla resistance
-- **The Great Burning (-4105):** Imperial forces used magical forest fires to eliminate guerrilla hideouts
-- **The Grove Accords (-4100):** Surrender in exchange for religious autonomy
-- **Demographic Catastrophe (-4095):** 40% population loss through warfare, disease, and displacement
-- Cultural assimilation programs and gradual integration into imperial society
-
-# Culture and Year 1600 AI Status
-
-Green Elf culture centers on:
-- **Nature Communion:** Direct, organic relationship with Echo through natural environments.
-- **The Green Pact:** Sacred covenant with [[Misha]] and the natural world.
-- **Druidic Traditions:** Nature shrines and groves as centers of spiritual life (contrasting with the Celestial faction's temple complexes).
-- **Decentralized Organization:** Loose confederations and grove-communities rather than hierarchical city-states.
-
-### Present Status (1600 AI)
-- **Assimilation:** In the present day, the majority of Green Elves on the Northern Continent have assimilated into the broader northern societies, losing their distinct tribal habits while retaining some ancestral runic traditions.
-- **The Conclaves:** A small, devoted minority continues to live in isolated groves. They maintain the Green Pact and actively commune with [[Misha]]. 
-- **Decaying Influence:** While [[Misha]] is still active, her power and influence on world politics are minimal, functioning as a quiet, defensive echo of a bygone natural order rather than an expansionist force.
-
-# Other Notes
-
-The Green Elves represent a "road not taken" for elvish civilization — what the [[Elves|elven]] people might have become had the Natural faction won the Divine Civil War. Their surviving communities, granted religious autonomy under the Grove Accords, maintain traditions that predate the [[Phoenix Empire]] itself — making them living repositories of pre-imperial elvish culture.
+---
+## Kultura i Zielony Pakt
+*   **Zielony Pakt:** Święte przymierze z Mishą nakładające restrykcje na niszczenie naturalnej flory w zamian za stabilność i pomoc płynącą z gajów rezonansowych.
+*   **Magia Środowiskowa:** Zamiast run czy precyzyjnych rytuałów metalurgicznych, tradycyjni Zieloni używają bezpośredniej, intuicyjnej manifestacji Echa poprzez organiczne struktury roślinne i leśne bestie.
 
 ---
 > [!note] Powiązane

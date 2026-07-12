@@ -5,56 +5,48 @@ tags:
   - echo-universe
 aliases:
   - Ludzie-Pająki
+  - Pajęczarze
   - Spider People
-  - People of the Web
-cover-image:
-group_status: Active
+group_status: Aktywna (Izolowane Cesarstwo)
 ---
+# Ludzie-Pająki (Spider People)
+
 > [!infobox]
-> # Spider People (Ludzie-Pająki)
-> ###### About
-> | Type | Magically-evolved human subspecies |
+> # Ludzie-Pająki
+> ###### O grupie
+> | Typ | Magicznie przekształcona linia [[Elves\|ludzka]] (*Homo sapiens*) |
 > | ---- | ---- |
-> | Other Titles | Ludzie-Pająki, People of the Web |
-> | Location(s) | Isolated Empire (Izolowane Cesarstwo / Wielka Sieć) |
-> | Member Count | Large, unified empire |
-> | Prominent Ideologies/Beliefs | The Great Web philosophy, worship of [[The Spider God]] |
-> | Languages | Languages of the Web |
+> | Inne nazwy | Pajęczarze, Tkacze |
+> | Siedziba | Izolowane Cesarstwo (Kontynent Południowy) |
+> | Ideologia / Wiara | Filozofia Wielkiej Sieci, kult [[The Spider God\|Sekretnego Boga]] |
 
-# Description
+## Anatomia i Cechy Pajęcze
 
-The **Spider People (Ludzie-Pająki)** are an ancient human subspecies whose biological and spiritual traits were shaped by long-term adaptation to psychic networks and illusion magic. They are the founding population of the **Isolated Empire (Izolowane Cesarstwo)** in the Far East.
+Ludzie-Pająki są biologicznym odłamem ludzkości (*Homo sapiens*), którego linia genetyczna została zmodyfikowana przez starożytną magię transmutacji ciał i długotrwały kult Sekretnego Boga. Ich fizyczne mutacje są subtelne i nie czynią z nich potwornych hybryd, lecz post-ludzi o specyficznych cechach:
+*   **Aparaty czuciowe:** Posiadają mikroskopijne, niezwykle czułe receptory na skórze (podobne do włosków czuciowych u pająków), co daje im doskonałą orientację przestrzenną, wyczuwanie wibracji powietrza i utrudnia zaskoczenie.
+*   **Oczy:** Zmieniona pigmentacja oraz specyficzny układ źrenic zapewniający doskonałe widzenie w ciemnościach oraz szeroki kąt widzenia.
+*   **Zdolności tkackie:** Ich metabolizm i gruczoły zostały częściowo przystosowane do manipulacji włóknami organicznymi (słyną z produkcji najwspanialszego, odpornego na magię jedwabiu).
 
-Rather than looking like literal arachnid monsters, they are biologically human with minor, uncanny spider-like characteristics.
+---
 
-# Biology and Characteristics
+## Kultura "Wielkiej Sieci" i Inspiracja Chinami
 
-- **Physical Traits:** They possess exceptionally pale skin, dark hair, and unique eyes, with some individuals exhibiting multiple pupils (pupula duplex) or a dark sclera. 
-- **Sensory Adaptation:** Their fingers possess highly sensitive, microscopic sensory structures that allow them to feel physical and psychic vibrations. They can "feel" the thinning of the Echo barrier or read encoded messages woven into physical fabrics.
-- **Inter-fertility:** They are inter-fertile with other human subspecies, though children born of mixed unions rarely inherit the advanced vibration-sensing capabilities.
+Kultura Ludzi-Pająków jest głęboko kolektywistyczna, ustrukturyzowana i hierarchiczna. Stanowi ona kulturowy odpowiednik cesarskich Chin w Uniwersum Echa:
+*   **Wielka Sieć (Concordat):** Ich społeczeństwo spajała dawniej potężna, psychiczna sieć Echa, która łączyła umysły obywateli w jedną, harmoniczną wspólnotę (Magiczna Demokracja). Uszkodzenie tej sieci podczas [[The Echo Shattering|Rozszczepienia Echa]] było dla nich ogromnym dramatem.
+*   **Kult Sekretnego Boga:** Czczą bóstwo zwane [[The Spider God|Sekretnym Bogiem]] (Wielkim Tkaczem), który jest postrzegany jako siła spajająca społeczeństwo, tkająca losy i chroniąca sekrety przed obcymi.
+*   **Izolacjonizm:** Ich państwo na południowym kontynencie — Izolowane Cesarstwo — odrzuca kontakty zewnętrzne i chroni swoje granice przed wpływem Drugiego Imperium oraz najazdami smoków.
 
-# History and the "Great Web"
+---
 
-## The Web Concordat (-7500 to -6500)
-In the ancient era, they built a highly sophisticated magical democracy known as the Web Concordat. Using their unique magical abilities, they established physical and psychic networks that linked their cities, allowing them to share thoughts, memories, and administrative data instantly.
+## Historia
 
-## The Echo Shattering and Isolation
-During the Shattering (-5500), their vast psychic network collapsed catastrophically under the weight of cosmic feedback, driving millions mad. The survivors retreated into the Far East, abandoning open democracy in favor of a rigid, imperial system designed to protect and stabilize their collective consciousness.
-
-## The Isolated Empire (1600 AI)
-In the current era (1600 AI), their civilization exists as the **Isolated Empire** (Wielka Sieć — equivalent to historical imperial China). 
-- **Philosophy:** Their entire society is organized around the "Great Web," a philosophy of absolute social harmony, interconnection, and duty.
-- **Religion:** They worship [[The Spider God]] (The Secret God / The Weaver), a deity who binds their society together and protects their collective mind from external madness and demonic infiltration.
-
-# Culture
-
-- **Weaving and Runic Fabrics:** They are masters of creating fabrics embedded with runes. A simple silk robe from the Isolated Empire can deflect arrows or absorb magical resonance.
-- **Illusion Magic:** They utilize the Echo to create incredibly realistic illusions, altering perceptions of sight, sound, and smell.
-- **Information Control:** Due to their connection to the God of Secrets, they prioritize information gathering, espionage, and political stability.
+*   **Mroczne Rady (-7500 do -6500 PI):** Epoka rozkwitu sieci Concordat. Stworzyli wyrafinowane systemy iluzji i biologicznej inżynierii.
+*   **Upadek Sieci (-5500 PI):** Rozszczepienie Echa rozerwało ich psychiczną unię, doprowadzając do kryzysu i upadku ich miast-państw.
+*   **Interwencja w Wojnie Dwóch Imperiów (-2886 PI):** Sekretny Bóg zainterweniował na koniec wojny, zabijając czempiona Khaine'a i pieczętując boga wojny, co ocaliło świat przed zagładą i zapoczątkowało Wieki Ciemne.
+*   **Cesarstwo w roku 1600 AI:** Państwo przetrwało jako potężny, odizolowany monolit polityczny na południowym kontynencie, chroniony przez góry i magię iluzji.
 
 ---
 > [!note] Powiązane
 > - [[The Spider God]]
+> - [[World History Timeline]]
 > - [[Southern Continent]]
-> - [[Echo Universe — World Bible]]
-> - [[Magic System]]

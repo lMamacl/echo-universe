@@ -12,76 +12,114 @@ aliases:
 
 ## I. Główne Założenia i Tonacja
 
-*   **Gatunek:** Realistyczne fantasy (low fantasy / high-concept renaissance). Świat jest technologicznie i społecznie zbliżony do późnego średniowiecza i wczesnego renesansu (ok. 1600 AI), ale jego rozwój został fundamentalnie przekształcony przez istnienie magii.
-*   **Tonacja:** Poważna, z naciskiem na polityczne, psychologiczne i fizjologiczne konsekwencje magii. Zamiast standardowej walki dobra ze złem, konflikty opierają się na zderzeniu idei, religii i postępu naukowego.
-*   **Centralny Motyw:** Rzeczywistość jest plastyczna i kształtowana przez ludzką świadomość za pośrednictwem płaszczyzny zwanej Echem. Każda interakcja z Echem ma jednak swoją cenę — zarówno dla jednostki, jak i dla całego świata.
+*   **Gatunek:** Realistyczne fantasy (low fantasy) z elementami post-katastroficznymi i wczesnorenesansowymi. Rozwój technologiczny i społeczny został ukształtowany i zmieniony przez istnienie magii.
+*   **Tonacja:** Poważna, z naciskiem na psychologiczne, biologiczne i filozoficzne aspekty magii. Świat pełen jest cudów, ale też głębokiego niepokoju i grozy wynikających z plastyczności rzeczywistości.
+*   **Centralny Motyw:** Rzeczywistość fizyczna jest kształtowana przez świadomość za pośrednictwem płaszczyzny zwanej Echem. Ewolucja ras, historia polityczna oraz religie są bezpośrednim produktem ludzkich myśli, wiary i magicznych mutacji.
 
-## II. Płaszczyzna Echa (System Magiczny)
+---
+
+## II. Płaszczyzna Echa i System Magiczny
 
 > [!tip] Szczegóły
 > Pełne opracowanie systemu magii: [[Magic System]]
 > Pełne opracowanie teologii: [[Apotheosis and Divinity]]
 
-### Definicja Echa i Koszt Magii
-*   **Natura Echa:** Równoległy wymiar mentalny (Immaterium), będący rezerwuarem wszystkich myśli, emocji i konceptów.
-*   **Paliwo Magiczne:** Magia nie bierze się z nikąd. Użytkownik musi czerpać energię z żywych źródeł: własnych sił witalnych (koszt fizyczny: zmęczenie, starzenie), otoczenia (roślinność) lub naturalnych *Rezonatorów* (miejsc, gdzie bariera między światami jest cienka).
-*   **Spectra:** Skrystalizowane idee w Echu, stanowiące skończony, ograniczony zasób energii.
-*   **Korupcja (Echo Bleed):** Nadmierne korzystanie z magii powoduje powolne zanikanie fizycznej formy maga. Objawia się to utratą zmysłów, stopniową przezroczystością ciała oraz słyszeniem głosów i wizjami z Echa.
-*   **Prawo Zachowania (Sekretna Wiedza):** Każda manifestacja przyciąga oba wymiary do siebie, osłabiając fizyczną barierę rzeczywistości.
+### Definicja Echa i Prawa Zachowania
+*   **Czym jest Echo (Immaterium, Pustka):** Równoległy wymiar mentalny. Pierwotnie będący stanem nie-bytu, połączył się ze zbiorową świadomością inteligentnych istot, stając się rezerwuarem myśli, emocji, wspomnień i pojęć.
+*   **Źródło Mocy (Paliwo):** Magia to akt **manifestacji** konceptów z Echa w świecie fizycznym. Magowie czerpią energię z:
+    1. **Sił witalnych i życia** samego maga (koszt biologiczny).
+    2. **Otoczenia** (rośliny, żywe organizmy).
+    3. **Naturalnych Resonatorów** (miejsca przebicia/cieńszej bariery Echa, np. święte gaje, kryształowe jaskinie).
+*   **Koszt Magiczny i Efekt Korupcji:** Każde użycie magii wyczerpuje siły życiowe. Nadmierne dotykanie Echa wywołuje powolną korupcję: ciało i dusza maga stopniowo stapiają się z Echem. Objawia się to fizycznym zanikaniem, utratą czucia (drętwieniem), eterycznym przenikaniem przez materię oraz nawracającymi wizjami i odgłosami z Immaterium.
+*   **Prawo Przybliżenia (Tajemnica):** Każda interakcja z Echem powoli przybliża oba wymiary do siebie, powodując przenikanie energii mentalnej do fizycznego świata. Zasoby Echa (Spectra) są ograniczone i powiązane z siłą istot żywych, jednak to, czy Echo ostatecznie wchłonie i zniszczy świat materialny, pozostaje nierozwiązaną tajemnicą.
 
-### Zasada Działania: Wiedza i Wola
-*   **Magia Emocjonalna (Intencja):** Gwałtowna, szybka i wysoce chaotyczna. Napędzana silnymi emocjami (np. nienawiść dla płomienia). Bez precyzyjnego planu jest śmiertelnie niebezpieczna (np. próba uzdrowienia w panice może wywołać raka lub zdeformować kości).
-*   **Magia Zrozumienia (Wiedza):** Bezpieczna, precyzyjna, wymagająca doskonałego rozumienia procesu (np. znajomość anatomii do leczenia, plany konstrukcyjne do wznoszenia budowli).
-*   **Praktyka i Rytuały:** Magia wymaga skupienia — medytacji, inkantacji lub rysowania run (Blueprints).
-*   **Powszechność:** Ok. 2.5% populacji posiada minimalne zdolności (rzemieślnicy, pomniejsi kapłani, cechowi runiarze), a zaledwie 0.075% populacji rodzi się z potencjałem na pełnoprawnych magów.
+### Powszechność Magii
+*   **2,5% Populacji** posiada minimalne, intuicyjne zdolności magiczne. Pozwala im to na proste rzemiosło, podstawowe ziołolecznictwo czy kapłaństwo.
+*   **0,075% Populacji** wykazuje wyrafinowane zdolności pozwalające na zostanie pełnoprawnymi magami (zdolnymi do manifestacji złożonych konceptów).
+*   *Powinowactwo Rasowe:* Niektóre grupy, takie jak Elfy, wykazują wyższe powinowactwo do zaawansowanej magii (większa szansa na narodziny potężnego maga), lecz ogólny odsetek osób z jakimikolwiek zdolnościami pozostaje w przybliżeniu stały dla wszystkich ludzi.
 
-### Szkoły Mrocznej Magii
-1.  **Transmutacja (Flesh Weaving):** Manipulacja żywym lub martwym ciałem. Obejmuje nekromancję, tworzenie smoków oraz mutacje rasowe. Zmiany te trwale nadpisują DNA i są dziedziczne (Lamarckizm).
-2.  **Echo Manipulation (Summoning):** Bezpośrednie rozrywanie bariery i przyzywanie bytów (demonów/myślokształtów) bezpośrednio z Immaterium.
+### Praktyka i Edukacja Magiczna
+*   **Codzienna Magia:** Wymaga skupienia, medytacji, gestów, inkantacji lub rysowania run. Rzemieślnicy na Północy powszechnie używają rytualnego nanoszenia run (Rzemiosło Infuzyjne) do wzmacniania pancerzy i broni.
+*   **Zaklęcia:** Istnieją powtarzalne, standaryzowane procedury (np. w medycynie magicznej), które pozwalają na bezpieczną kontrolę nad magią i zarządzanie zasobami fizycznymi organizmu, co minimalizuje ryzyko korupcji.
+*   **Edukacja:** Odbywa się w wielkich Akademiach Magicznych (głównie na wolnej Północy, gdzie magia traktowana jest jako nauka), poprzez tradycyjne Czeladnictwo (cechy rzemieślnicze) oraz w ramach struktur kapłańskich (Kościół Feniksa na Południu kontrolowany przez inkwizycję).
+
+### Ciemna Magia (Zakazana Praktyka)
+Ciemna magia charakteryzuje się czerpaniem energii z cudzej woli/życia lub bezpośrednią manipulacją strukturą Echa. Dzieli się na dwie główne szkoły:
+1.  **Transmutacja (Manipulacja Ciałem):** Zmiana żywej lub martwej tkanki. Obejmuje nekromancję, tworzenie hybryd (jak pierwsze smoki) oraz tworzenie Zmienionych (Orków).
+2.  **Przyzywanie i Manipulacja Echotyczna:** Bezpośrednie wyrywanie z Echa demonów (myślokształtów, ucieleśnień pradawnych lęków) oraz próby niszczenia lub modyfikowania samej Zasłony.
+
+---
 
 ## III. Ludzkość i jej Różnorodność (Rasy)
 
-*   **Jeden Gatunek, Wiele Form:** Wszystkie rasy to w rzeczywistości inter-fertylne podgatunki *Homo sapiens*, których różnice wynikają z pokoleniowej transmutacji lub mimowolnego dostosowania przyspieszonego przez Echo.
-*   **Elfy:** Średnia długość życia wynosi **140–150 lat** (maksymalnie 180). Posiadają naturalnie wyższy wskaźnik zaawansowanej magii. Są wysoce kompatybilne genetycznie z ludźmi, dając początek wpływowym dynastycznie *półelfom*.
-*   **Krasnoludy:** Żyją do **120 lat**, wykazują wysoką odporność na magię.
-*   **Jaszczuroludzie (Lizardfolk):** W 90% biologicznie i fizycznie ludzie. Jedynie nieliczne, rządzące kasty posiadają permanentne gadzie cechy (łuski, zimna krew) nabyte przez transmutację. Ich *Spawning Circles (Kręgi Wylęgowe)* to nie gniazda z jajami, lecz rytualne baseny transmutacyjne dla dzieci z tych kast.
-*   **Ludzie-Pająki (Spider People):** Zamieszkują *Izolowane Cesarstwo* (odpowiednik Chin). Posiadają minimalne modyfikacje (podwójne źrenice, blada skóra, czułe palce wyczuwające wibracje Echa). Wierzą w *Sekretnego Boga*, który spaja ich społeczeństwo w bezpieczną sieć psychiczną.
-*   **Orkowie (Zmienieni):** Stworzeni sztucznie w czasie wojen religijnych (Chimera War) jako żywa broń. Posiadają zielonkawą/szarą skórę i wielką siłę. W 1600 AI stanowią pariasów walczących o równe prawa społeczne.
+*   **Antropocentryzm:** Wszyscy mieszkańcy świata należą do jednego gatunku — *Homo sapiens*. Nie ma osobnych gatunków "elfów" czy "krasnoludów".
+*   **Magiczny Lamarkizm:** Długotrwałe, pokoleniowe używanie magii bezpośrednio modyfikuje linię genetyczną. Zmiany te są dziedziczne i doprowadziły do powstania trwałych adaptacji fizycznych i fizjologicznych. Wszystkie podgrupy pozostają jednak inter-fertylne (choć stopień kompatybilności różni się; np. ludzie i elfy krzyżują się najłatwiej, a półelfy i półorkowie odgrywają istotne role w historii).
+
+### Główne Odłamy Ludzkości
+
+#### 1. Elfy (Homo sapiens alatus/nobilis)
+*   **Cechy:** Wyżsi, smuklejsi, o wydłużonym okresie życia (**średnio 140–180 lat**).
+*   **Status demograficzny:** Podczas ekspansji Pierwszego Imperium stanowili niewielką elitę rządzącą (5–10% na Południu i w Krainie Smoków). Pod koniec istnienia imperium na Północy ich odsetek wrósł do 20–30% populacji. W 1600 AI stanowią trzon arystokracji i mieszczaństwa Western Peninsula.
+
+#### 2. Jaszczuroludzie (Lizardfolk)
+*   **Cechy:** Większość populacji to zwykli ludzie przystosowani do życia na mokradłach. Jedynie nieliczne, rządzące kasty poddane przymusowej transmutacji przez starożytne smoki i magów posiadają permanentne gadzie cechy (łuski, zmiennocieplność, specyficzną budowę ciała).
+*   **Kultura:** Spawning Circles (Kręgi Wylęgowe) pełniące funkcje rytualne i polityczne.
+
+#### 3. Ludzie-Pająki (Spider People)
+*   **Cechy:** Ludzie o subtelnych pajęczych cechach (np. dodatkowe receptory czuciowe, zmieniony wygląd oczu).
+*   **Kultura:** Społeczność zjednoczona niegdyś przez psychiczną "Wielką Sieć" i kult Sekretnego Boga (pająka spajającego ich umysły). Kulturowy odpowiednik cesarskich Chin, kontynuowany przez dzisiejsze Izolowane Cesarstwo.
+
+#### 4. Zmienieni (Orkowie)
+*   **Cechy:** Istoty o szarej lub zielonkawej skórze, nienaturalnej sile i odporności.
+*   **Geneza:** Stworzeni jako broń w laboratoriach transmutacyjnych w XI-XII wieku AI podczas Wojny Chimerycznej poprzez zmieszanie ludzkich ciał z esencją bestii z Echa.
+*   **Status w 1600 AI:** Rasa pariasów, wolna od demonicznego wpływu, lecz spychana do gett, pracująca fizycznie i traktowana jako "żywy grzech" przeszłości.
+
+---
 
 ## IV. System Wiary i Apoteoza
 
-### Apoteoza i strata energii
-*   **Apoteoza:** Śmiertelnik zasilony wiarą milionów niszczy swoje fizyczne ciało i przenosi świadomość do Echa, stając się bogiem.
-*   **Stratność:** Proces transferu energii przez Echo nie jest bezstratny (millions of prayers give far less power). Bogowie nie są wszechmocni.
-*   **Brak Pamięci:** Podporządkowani przez Feniksa bogowie stracili swoje dawne tożsamości. Po jego rozpadzie zostali powoli ukształtowani na nowo przez wierzenia swoich post-imperialnych wyznawców.
-*   **Panteon 7 Aspektów:** Dominujący kościół w Drugim Imperium czci 7 Aspektów Boga (Ojciec/Sędzia, Matka, Wojownik, Uczony, Dziewica, Ognisko, Cień).
-*   **Natura Feniksa:** Feniks nie żyje. Jego dusza rozpadła się na *Okruchy Żaru (Shards of Ember)*. Każdy fragment niesie tylko jeden aspekt jego charakteru (np. tylko Gniew, tylko Litość). Ich ponowne scalenie nie ożywi dawnego Boga, lecz stworzy **nową, nieprzewidywalną istotę**.
+### Apoteoza i Siedem Aspektów
+*   **Apoteoza:** Śmiertelnik zasilony wiarą milionów przenosi świadomość do Echa, niszcząc swoje ciało fizyczne i stając się konceptem — Bogiem.
+*   **Panteon Siedmiu Aspektów:** Po wniebowstąpieniu Feniksa, starzy bogowie zostali podporządkowani i wtłoczeni w ramy siedmiu Aspektów (np. Aspekt Matki, Aspekt Sędziego). Po rozpadzie Feniksa bogowie ci nie odzyskali od razu dawnej tożsamości; zostali na nowo ukształtowani przez wiarę i pragnienia swoich wyznawców w okresie Drugiego Imperium.
 
-## V. Geografia i Geopolityka (Rok 1600 AI)
+### Los Feniksa
+*   **Okruchy Żaru:** Feniks jako osoba umarł. Jego dusza została rozdarta na fizyczne artefakty (Okruchy Żaru). Każdy z nich zawiera jedynie cień dawnego boga lub pojedynczy, skrajny aspekt jego osobowości (np. tylko Litość, tylko Gniew). Scalenie Okruchów nie przywróci oryginalnego Feniksa, lecz stworzy zupełnie **nową, nieprzewidywalną istotę**.
 
-*   **Second Empire (Drugie Imperium):** Słaby politycznie spadkobierca Pierwszego Imperium, kontrolowany przez skorumpowany Kościół Feniksa. W okresie świetności (200 AI) kontrolował 30% dawnego terytorium Feniksa (głównie Półwysep Zachodni).
-*   **Niezależna Północ:** Rozdrobniona politycznie kraina (20–30 królestw, wolnych miast i republik kupieckich, niczym średniowieczna Europa), która rozwija naukę i runiczne rzemiosło.
-*   **Smocze Imperium (Południe):** Rządzone przez nieśmiertelne Smoki. Relacje z Drugim Imperium są minimalne i otwarcie wrogie (smocze najazdy).
-*   **Isolated Empire (Izolowane Cesarstwo / Wielka Sieć):** Potężna, stabilna cywilizacja Ludzi-Pająków na wschodzie Kontynentu Południowego.
+---
+
+## V. Geografia Świata (Wybrane Regiony)
+
+*   **Kontynent Północny:** Centrum polityczne. Zachodni Półwysep to kolebka Drugiego Imperium. Północ to dynamiczne królestwa i republiki kupieckie (20–30 niezależnych państw), gdzie magia traktowana jest jako nauka.
+*   **Kontynent Południowy:**
+    *   **Ziemia Dwóch Rzek:** Kolebka państw dżinnów.
+    *   **Kraina Smoków (Dragon Lands):** Obszar opanowany przez smoki (ludzkie umysły uwięzione w wyvernich ciałach, dotknięte szaleństwem i dysonansem cielesnym). Rządzona przez [[Raicha|Raichę]], Draconic Lich Queen.
+    *   **Izolowane Cesarstwo ("Wielka Sieć"):** Kontynuator tradycji Ludzi-Pająków na Południu.
+    *   **Królestwa Korsarzy:** Zbuntowane kolonie Mrocznych Elfów na wschodnich wyspach, czczące [[Khaine|Khaine'a]] (który w 1600 AI jest ucieleśnieniem ich bezwzględnej natury, podobnym do Malekitha z Warhammera).
+
+---
 
 ## VI. Zarys Historii i Oś Czasu
 
-*   **Pierwsze Imperium Feniksa (-5260 do -2886 PI):**
-    1.  *Ekspansja (-5260 do -4800 PI):* Gwałtowny rozwój, podbój centralnych ziem.
-    2.  *Stabilizacja (-4800 do -3900 PI):* Kolonizacja rubieży, starcia z Lizardfolk.
-    3.  *Izba Lordów (-3900 do -3200 PI):* Powołanie parlamentu, wycofywanie się sparaliżowanego Feniksa.
-    4.  *Rozpad (-3200 do -2886 PI):* Wojna successionistyczna (War of Two Empires).
-*   **The Dark Ages (-2886 do -2486 PI):** Skrócony do **400 lat** okres chaosu, upadku technologii i wojen 100 Królestw.
-*   **Drugie Imperium (0 AI / -2486 PI do 1600 AI):**
-    -   *0–200 AI:* Ekspansja i powołanie 7 Aspektów.
-    -   *200–500 AI:* Wojny domowe i wielka inwazja zza Dusk Mountains (500 AI), która spycha imperium do centralnej doliny.
-    -   *1100–1200 AI:* **Wojna Chimeryczna** (najważniejszy konflikt okresu Krucjat) — narodziny Orków.
-    -   *ok. 1300 AI:* **Smocza Wojna Domowa** — banicja zbuntowanych smoków na daleką Północ.
-    -   *1600 AI (Obecnie):* Renesans, wynalazek druku, karaweli, narastający konflikt reformacji na Północy.
+### Fazy Pierwszego Imperium Feniksa (-5260 do -2886 PI)
+1.  **Era Ekspansji:** Gwałtowny podbój i jednoczenie skłóconych ziem, dynamiczny wzrost cywilizacyjny i technologiczny.
+2.  **Epoka Stabilizacji i Kolonizacji:** Umacnianie granic, rozwój biurokracji i administracji kolonialnej.
+3.  **Powołanie Izby Lordów (parlamentu):** Powstała w wyniku postępującego paraliżu decyzyjnego Feniksa (Kakofonii zintegrowanych dusz).
+4.  **Powolny Rozpad:** Stagnacja ustrojowa. Mimo paraliżu boga, skuteczność i bezwładność administracji opóźniły ostateczny upadek o stulecia, aż do [[War of Two Empires|Wojny Dwóch Imperiów]].
+
+### Oś Czasu Drugiego Imperium (0 AI do 1600 AI)
+*   **0 AI — Założenie Drugiego Imperium:** Zjednoczenie Półwyspu Zachodniego przez potomka ostatniej cesarzowej.
+*   **200 AI — Złoty Wiek:** Kontrola nad niemal całą zachodnią częścią kontynentu.
+*   **500 AI — Inwazja zza Gór:** Najazd ludów ze wschodu, wojny domowe. Imperium cudem ocalało, kurcząc się do centralnej doliny.
+*   **1100–1300 AI — Wielkie Krucjaty:** Wojny religijne prowadzone przez Kościół Feniksa.
+    *   **Wojna Chimeryczna (1100-1200 AI):** Najważniejszy konflikt Krucjat. Buntownicy użyli transmutacji ciał, tworząc Zmienionych (Orków) i przyzywając potwory z Echa, co skaziło demograficznie i społecznie kontynent.
+*   **1300–1310 AI — Smocza Wojna Domowa:** Ostatnia wojna świętych na początku XIV wieku. Konflikt z wygnanymi smokami na Północy, które ostatecznie rozproszono i zepchnięto w legendy.
+*   **1600 AI — Era Obecna (Renesans):**
+    *   *Technologia:* Poziom wczesnego renesansu (druk, karawele, runiczne rzemiosło infuzyjne). Brak maszyn parowych.
+    *   *Polityka:* Drugie Imperium słabe i skorumpowane (kontroluje ok. 30% dawnego terytorium Feniksa w swoim prime). Północ to mozaika 20-30 silnych, niezależnych państw konkurujących o nowe szlaki i kolonie.
 
 ---
+
 > [!note] Powiązane dokumenty
 > - [[Introduction to the Echo Universe]]
 > - [[World History Timeline]]
-> - [[Phoenix Empire]]
 > - [[Magic System]]

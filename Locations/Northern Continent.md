@@ -5,65 +5,58 @@ tags:
   - echo-universe
 aliases:
   - Kontynent Północny
-cover-image:
 ---
+# Kontynent Północny
+
 > [!infobox]
-> # Northern Continent
-> ###### About
-> | Location Type | Continent |
+> # Kontynent Północny
+> ###### O regionie
+> | Typ lokacji | Kontynent |
 > | ---- | ---- |
-> | Other Titles | Kontynent Północny |
-> | Area | Major continental mass |
-> | Prominent locations within Northern Continent | Western Peninsula, Northern Lands, Eastern Steppes, Southeast, Southern Subcontinent |
+> | Lokacje składowe | Półwysep Zachodni, Ziemie Północne, Step Wschodni, Południowy Wschód |
+> | Główne nacje (1600 AI) | Drugie Imperium, Republiki i Królestwa Północy |
 
-# Description
+## Opis Geograficzno-Polityczny
 
-## About
+Kontynent Północny jest historycznym i politycznym centrum znanego świata. To tutaj rozegrały się kluczowe wydarzenia związane z ekspansją [[Phoenix Empire|Pierwszego Imperium]], a obecnie znajduje się tu [[Second Empire|Drugie Imperium]] oraz mozaika dynamicznych państw Północy.
 
-The Northern Continent is the historical and political center of the known world — the arena for the most important events in Echo Universe history, including the rise and fall of the [[Phoenix Empire]] and the establishment of the [[Second Empire]].
+---
 
-## Features
+## Główne Regiony
 
-The continent is dominated by diverse geography including mountain ranges, river systems, forests, steppes, and a vast desert peninsula. The major sub-regions form distinct geographical and cultural zones:
+### Półwysep Zachodni (Półwysep Zachodni)
+*   **Geografia:** Obszar bogaty w lasy, rzeki i łańcuchy górskie.
+*   **Polityka:** Tradycyjna kolebka cywilizacji elfiej i serce [[Second Empire|Drugiego Imperium]]. Władza cesarza jest tu jednak osłabiona przez korupcję i dominację [[Church of the Phoenix|Kościoła Feniksa]].
 
-### Western Peninsula (Półwysep Zachodni)
-An enormous, geographically diverse peninsula — the cradle of the [[Second Empire]]. Rich in mountain ranges, forests, and river systems. Politically dominated by the [[Second Empire]], though its power wanes. Independent kingdoms and merchant republics in the north increasingly conflict with the imperial [[Church of the Phoenix]].
+### Ziemie Północne (Wolna Północ)
+*   **Geografia:** Tereny na północ od strategicznej rzeki Sewy, o surowszym klimacie.
+*   **Polityka w 1600 AI:** Dynamicznie rozwijający się region składający się z **20–30 niezależnych królestw, wolnych miast i republik kupieckich**. Odrzuciły one zwierzchnictwo inkwizycji i traktują magię jako dyscyplinę naukową. To tutaj rozwija się precyzyjne rzemiosło runiczne (Rzemiosło Infuzyjne).
 
-### Northern Lands (Ziemie Północne)
-Located north of the strategic River Sewa. Characterized by harsh climate and mountainous terrain. Historical records indicate this region will become the cradle of a new, expansive empire in the future.
+### Step Wschodni (Krainy Wschodu)
+*   **Geografia:** Obszary za Górami Zmierzchu. Dzikie, słabo zaludnione stepy i kraina wielkich jezior.
+*   **Populacja:** Zamieszkane głównie przez koczownicze plemiona ludzkie i nieliczne gromady Zmienionych.
 
-### Eastern Steppes (Krainy Wschodu)
-Beyond the Dusk Mountains (Góry Zmierzchu). Vast, wild steppes and the primordial land of great lakes. Sparsely populated, inhabited by nomadic tribes.
+### Południowy Wschód
+*   **Geografia:** Cieplejszy klimat, pustynne półwyspy przypominające ziemski Lewant i Persję.
+*   **Historia:** Dawne państwa satelickie Pierwszego Imperium, dziś niezależne emiryty i republiki handlowe.
 
-### Southeast (Południowy Wschód)
-Warmer climate region, encompassing lands reminiscent of the historical Levant and Persia. Includes a great desert peninsula. Numerous island kingdoms lie to the south.
+---
 
-### Southern Subcontinent (Subkontynent Południowy)
-A great peninsula in the south of the continent, separated from the rest by a high mountain range. Possesses a unique, distinct culture and history shaped largely by geographical isolation.
+## Struktura Demograficzna (1600 AI)
 
-## Populations
+*   **[[Elves|Elfy]] (Wysokie):** Dominująca grupa społeczna, stanowiąca większość arystokracji na Półwyspie Zachodnim.
+*   **Ludzie:** Stanowią większość populacji we wszystkich regionach. Północne królestwa są zdominowane przez dynamiczne mieszczaństwo ludzkie.
+*   **[[Green Elves|Zielone Elfy (Leśne)]]:** Zamieszkują północne wybrzeża (Wielkie Gaje). W większości ulegli asymilacji z kulturą Północy, tracąc dawne rygory Zielonego Paktu.
+*   **Zmienieni ([[Orkowie]]):** Potomkowie stworzeń z Wojny Chimerycznej. Żyją w gettach wielkich miast przemysłowych i portowych Półwyspu Zachodniego, pracując jako dokerzy, najemni żołnierze i górnicy.
 
-- [[Elves]] (dominant in Western Peninsula, historically across all regions)
-- [[Green Elves]] (northern areas, Great Groves)
-- Jinni-descendant peoples (desert regions, Southeast)
-- Nomadic tribes (Eastern Steppes)
-- Various mixed populations from colonial-era intermarriage
+---
+## Klimat i Bariery Naturalne
 
-## Climate
+Klimat rozciąga się od subpolarnego na dalekiej północy, przez umiarkowany morski na Półwyspie Zachodnim, po suchy, pustynny na południowym wschodzie. Góry Zmierzchu stanowią naturalną barierę klimatyczną i kulturową oddzielającą zurbanizowany zachód od dzikich stepów wschodnich.
 
-Ranges from harsh northern conditions to warm southeast and desert climates. The Dusk Mountains form a major climatic barrier between the western/central and eastern zones.
-
-# History
-
-The Northern Continent has been the stage for the entire span of known history — from the earliest elven city-states through the [[Phoenix Empire]]'s expansion, the Dark Ages, and the current [[Second Empire]] era. See [[World History Timeline]] for complete chronology.
-
-# Significant locations in Northern Continent
-
-- Western Peninsula — [[Second Empire]] heartland
-- River Sewa — strategic northern boundary
-- Dusk Mountains (Góry Zmierzchu) — barrier to the eastern steppes
-- The Great Groves — [[Green Elves]] settlements on northern shores
-
-# Other Notes
-
-The Northern Continent's geography mirrors the Old World (Eurasia) in general structure, but the presence of Echo magic has produced dramatically different civilizational patterns.
+---
+> [!note] Powiązane
+> - [[World History Timeline]]
+> - [[Second Empire]]
+> - [[Green Elves]]
+> - [[Lizardfolk]]
