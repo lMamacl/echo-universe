@@ -31,30 +31,28 @@ The [[Phoenix Empire]]'s eastern expansion led to the establishment of permanent
 
 ## Cultural Divergence (-3500 to -3200)
 Over five generations, Dark Elf colonial society developed:
-- Maritime magical traditions focused on sea, storm, and navigation
-- Independent decision-making and autonomous governance
-- Economic independence rivaling the imperial heartland
-- A fully distinct cultural identity by -3200
+- Maritime magical traditions focused on sea, storm, and navigation.
+- Independent decision-making and autonomous governance.
+- Economic independence rivaling the imperial heartland.
+- A fully distinct cultural identity by -3200.
 
 ## The Eastern Ascendancy (-3100 to -3000)
 While the western [[Phoenix Empire]] collapsed into the Pretender Wars and economic breakdown, the Dark Elves consolidated:
-- United under single autonomous government
-- Trade networks flourished while western commerce collapsed
-- Naval technology and magical practices advanced beyond imperial standards
-- Became economically and militarily comparable to the original Empire
+- United under single autonomous government.
+- Trade networks flourished while western commerce collapsed.
+- Naval technology and magical practices advanced beyond imperial standards.
+- Became economically and militarily comparable to the original Empire.
 
 ## [[Khaine]]'s Champions (-3030 to -2886)
 The war-god [[Khaine]], freed from the Phoenix Veil System, chose a charismatic Dark Elf leader as his divine champion. This Avatar led the revolutionary faction in the [[War of Two Empires]] against [[Empress Aetheria]]'s orthodox claim — ultimately triumphing before being killed by [[The Spider God|the Secret God]].
 
-# Culture
+# Culture and Year 1600 AI Status
 
 Dark Elf culture represents a "dark mirror" of the imperial elvish civilization — retaining elvish organizational capability but combining it with:
-- Maritime mastery and oceanic adaptation
-- Greater independence and self-governance traditions
-- Warrior-religious culture (especially among [[Khaine]]'s followers)
-- Pragmatic commercial focus
-
-The Corsair Kingdoms — island kingdoms descended from [[Khaine]]'s rebel followers — represent the most extreme expression of Dark Elf culture, dominated by piracy and the slave trade.
+- Maritime mastery and oceanic adaptation.
+- Greater independence and self-governance traditions.
+- **The Corsair Kingdoms (Królestwa Korsarzy):** Powerful, independent island states that broke away from the empire. They are built on slavery, naval raids, and piracy.
+- **The Cult of Khaine:** In 1600 AI, [[Khaine]] is worshipped not as a mindless, bloodthirsty demon, but as the chilling, political personification of Dark Elf pride, martial excellence, and right to rule. He is viewed as a cold, strategic conqueror (a Malekith-esque figure) whose wrath will lead them to retake the mainland.
 
 # Other Notes
 

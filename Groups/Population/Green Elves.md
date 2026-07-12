@@ -49,13 +49,18 @@ When the [[Phoenix Empire]] expanded north, Aelion Thornweaver united scattered 
 - **Demographic Catastrophe (-4095):** 40% population loss through warfare, disease, and displacement
 - Cultural assimilation programs and gradual integration into imperial society
 
-# Culture
+# Culture and Year 1600 AI Status
 
 Green Elf culture centers on:
-- **Nature Communion:** Direct, organic relationship with Echo through natural environments
-- **The Green Pact:** Sacred covenant with [[Misha]] and the natural world
-- **Druidic Traditions:** Nature shrines and groves as centers of spiritual life (contrasting with the Celestial faction's temple complexes)
-- **Decentralized Organization:** Loose confederations and grove-communities rather than hierarchical city-states
+- **Nature Communion:** Direct, organic relationship with Echo through natural environments.
+- **The Green Pact:** Sacred covenant with [[Misha]] and the natural world.
+- **Druidic Traditions:** Nature shrines and groves as centers of spiritual life (contrasting with the Celestial faction's temple complexes).
+- **Decentralized Organization:** Loose confederations and grove-communities rather than hierarchical city-states.
+
+### Present Status (1600 AI)
+- **Assimilation:** In the present day, the majority of Green Elves on the Northern Continent have assimilated into the broader northern societies, losing their distinct tribal habits while retaining some ancestral runic traditions.
+- **The Conclaves:** A small, devoted minority continues to live in isolated groves. They maintain the Green Pact and actively commune with [[Misha]]. 
+- **Decaying Influence:** While [[Misha]] is still active, her power and influence on world politics are minimal, functioning as a quiet, defensive echo of a bygone natural order rather than an expansionist force.
 
 # Other Notes
 

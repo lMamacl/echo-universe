@@ -19,73 +19,73 @@ aliases:
 ### Heroes and Saints
 Historical figures, religious leaders, and legendary heroes in whom thousands believe can perform feats exceeding the abilities of even the most powerful individual mages. Their power comes not only from their own talent, but from the **faith of their followers** channeled through the [[The Echo Plane|Echo Plane]].
 
+### Lossy Energy Transfer
+The transfer of mental and spiritual energy from mortal followers to their deity or champion is **not 100% efficient**:
+- There is a high level of energy decay during transmission through the Echo Plane.
+- **Mathematical Reality:** Millions of worshippers focusing their prayer on a deity yield a pool of power far smaller than the mathematical sum of their individual life forces.
+- This lossy dynamic is the primary reason why even the most heavily worshipped Echo-Gods are **not omnipotent** and cannot simply rewrite reality at will.
+
 ### The Feedback Loop
 This creates a reinforcement cycle:
-1. A hero performs impressive feats
-2. They gain more followers
-3. More followers = more Echo energy transferred to the hero
-4. The hero becomes more powerful
-5. More impressive feats attract even more followers
+1. A hero performs impressive feats.
+2. They gain more followers.
+3. More followers = more Echo energy transferred to the hero (minus transmission loss).
+4. The hero becomes more powerful.
+5. More impressive feats attract even more followers.
 6. The cycle continues until...
 
 ### Apotheosis: The Ultimate Transcendence
+- **Process:** A mortal who becomes the object of faith of millions can achieve apotheosis — the complete transfer of consciousness and essence into the [[The Echo Plane|Echo Plane]].
+- **Price:** This process inevitably and completely **destroys the physical body**. The mortal ceases to exist in the material world.
+- **Result:** Within the Echo Plane, they become a conceptual entity — a god — the embodiment of the idea they represented during their life.
 
-**Process:** A mortal who becomes the object of faith of millions can achieve apotheosis — the complete transfer of consciousness and essence into the [[The Echo Plane|Echo Plane]].
-
-**Price:** This process inevitably and completely **destroys the physical body**. The mortal ceases to exist in the material world.
-
-**Result:** Within the Echo Plane, they become a conceptual entity — a god — the embodiment of the idea they represented during their life.
+---
 
 ## The Nature of Echo-Gods
 
-### Dependence on Worship
-Echo-Gods are sustained by the faith of mortals. Without followers who feed their echoes in the Echo Plane, they would weaken or cease to exist. This creates a dynamic relationship — **gods need mortals as much as mortals seek their power**.
+### Dependence on Worship and Altered Memory
+Echo-Gods are sustained by the faith of mortals. They do not retain a fixed, immutable identity from their mortal days:
+- **Conceptual Adaptability:** A god's identity is defined and continuously reshaped by what their current worshippers believe they are.
+- **The Phoenix Alteration:** When the [[Phoenix Emperor]] subjugated and bound the old gods into the **Divine Veil System**, he fundamentally restructured their identities. They did not regain their original pre-Veil memories or desires upon his fall. Instead, they woke up in a confused state and were gradually reshaped by the collective belief of the post-imperial populace.
 
 ### Indirect Intervention
 Gods **cannot act directly** in the material world. Their influence is always indirect:
+- **Church and Followers:** Through religious organization and divine inspiration.
+- **Avatars and Champions:** Pouring power into a mortal host (which slowly destroys the host's body).
 
-| Method | Description |
-|---|---|
-| **Church and Followers** | Strengthen the faith and loyalty of worshippers |
-| **Avatars and Champions** | "Anoint" a chosen mortal, pouring part of their power and consciousness into them |
-| **Communication** | Communicate through dreams, visions, and inspirations sent through Immaterium |
-
-### The Pantheon System
-When multiple heroes achieved apotheosis in the same civilization, they formed **pantheons** — coalitions of allied gods. The spread of writing enabled codification of myths and consolidation of cults.
+---
 
 ## Historical Evolution of Divinity
 
-### Early Gods (-8500 to -8000)
-The greatest Heroes achieved apotheosis, becoming the First Gods. They created divine champions and established organized churches. The Pantheon Wars began as rival divine factions and their mortal followers clashed.
+### The Phoenix Reformation and the 7 Aspects
+The [[Phoenix Emperor]] bound the unruly pantheons into the **Divine Veil System** (-5270). Following the Phoenix's dissolution, the [[Church of the Phoenix]] codified this structure into a stable, **Seven-Aspect Pantheon** (resembling a unified polytheism):
+1. **The Father / Judge** (Order, Law)
+2. **The Mother** (Mercy, Life)
+3. **The Warrior** (Honor, Just Conflict)
+4. **The Scholar** (Knowledge, Runes)
+5. **The Maiden** (Purity, Hope)
+6. **The Hearth** (Community, Harvest)
+7. **The Shadow** (Death, Transition)
 
-### The Cataclysm
-Excessive and chaotic divine interventions destabilized reality, leading to global natural catastrophes. Most civilizations collapsed. Many deities "died" — their concepts in the Echo Plane faded due to loss of followers.
+These Seven Aspects are now worshipped as independent deities, though dogmatically viewed as fragments of the unified Phoenix truth.
 
-### The Phoenix Reformation (-5270)
-The [[Phoenix Emperor]] created the **Divine Veil System** — forcing gods to fragment their consciousness into specialized personas:
-- God of harvest bound to agricultural cycles
-- Deity of love constrained to matters of the heart
-- War-god limited to battlefield guidance
+### The Phoenix Shards (Option C Status)
+The [[Phoenix Emperor]] is **dead**. His consciousness did not merely go dormant; it was physically and spiritually torn apart:
+- **Okruchy Żaru (Shards of Ember):** The fragmented remains of his soul exist as physical relics scattered across the world.
+- **Aspect Personality Fragments:** Each shard does not contain the whole Phoenix, but a single, isolated element of his persona (e.g., one shard is purely his *Anger*, another is his *Mercy*, a third is his *Intellect*).
+- **The New Born God:** Attempting to gather and merge these shards **will not resurrect the original Phoenix**. Instead, it would synthesize a completely **new, unpredictable divine entity** based on how the shards combine and the expectations of those who trigger the merger.
 
-This transformed chaotic divine nature into **ordered divine function**, creating a celestial bureaucracy mirroring earthly imperial structure.
+---
 
-### Post-Phoenix Polytheism (0 AI onwards)
-After the Phoenix's dissolution, the [[Church of the Phoenix]] transformed into a purely polytheistic system. The formerly subordinate gods became fully independent entities — often interpreted as "aspects" of the destroyed Phoenix divinity.
+## Notable Deities (1600 AI Status)
 
-## Notable Deities
-
-| Deity | Domain | Status | Notes |
+| Deity | Domain | Current Status | Notes |
 |---|---|---|---|
-| [[Phoenix Emperor]] | Order, Control, Reality | Dissolved (-3050) | Consciousness fragmented |
-| [[Khaine]] | Tyranny, War, Control | Imprisoned (-2886) | Bound by the Secret God |
-| [[Misha]] | Nature, Pestilence, Wild | Active | Collective mind of Green Pact priestesses |
-| [[The Spider God]] | Secrets, Hidden Knowledge | Active / Hidden | May be the "Secret God" |
-| [[Raicha]] | Draconic power | Active | Failed apotheosis — Dragon-Birth Ritual |
-| Jinni (Genie Lords) | Elemental forces | Various | Among the first primordial gods |
-
-## Failed Apotheosis
-
-Not all attempts at divine transcendence succeed. The Dragon-Birth Ritual represents a **failed apotheosis** — the [[Lizardfolk]] leaders' consciousness merged with the Echo Plane and with mutated prehistoric reptile bodies, but the result was not true godhood. Instead, they became beings driven by hatred and dark magic — powerful but fundamentally flawed.
+| **The Seven Aspects** | Central virtues | Active / Dominant | The core pantheon of the Second Empire. |
+| [[Khaine]] | Tyranny, War, Blood | Imprisoned but active | Worshipped by the **Dark Elves** of the Corsair Kingdoms. In 1600 AI, he is not a chaotic beast but a chilling, political personification of Dark Elf dominance — akin to a dark overlord (Malekith-esque) seeking vengeance. |
+| [[Misha]] | Wild Nature, Growth | Active (Minor) | Czczona przez **Green Elves** w niezależnych konklawach. Posiada niewielki wpływ na arenę światową, jako że większość leśnych elfów zasymilowała się z kulturą Północy. |
+| [[The Spider God]] | Secrets, Connections | Active / Hidden | The patron of the **Isolated Empire** (Wielka Sieć) in the Far East. Represented as a spider binding collective society. |
+| [[Raicha]] | Draconic Power | Active | Draconic Lich Queen ruling the hostile Dragon Lands in the south. |
 
 ---
 > [!note] Powiązane dokumenty

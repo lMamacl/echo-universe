@@ -22,14 +22,21 @@ group_status: Active
 
 # Description
 
-The Lizardfolk are a major civilization of the Echo Universe, organized around communal nature spirits and democratic assemblies. Like all "races" in this world, they are a **magically-evolved branch of humanity** — their reptilian characteristics developed through generations of biological magic and ecosystem-focused transmutation.
+The Lizardfolk (Jaszczuroludzie) are a major civilization of the Echo Universe. Unlike generic fantasy reptiles, **the vast majority of the Lizardfolk population are physically and biologically human**. 
+
+Their distinctive "reptilian" nature is not a species-wide trait, but a caste-based distinction:
+- **The Human Base:** Around 90% of the population are fenotypically human, sharing the same basic biology and inter-fertility as other peoples of the world.
+- **The Transmutated Castes:** Only specific, select castes (such as high-level shamans, elite guardians, and rulers) possess permanent lizard-like traits (scales, cold blood, reptilian eyes, tail structures). These traits were forcefully engineered or inherited via Lamarckian genetic markers after centuries of draconic flesh-weaving.
+- **Inter-fertility:** Because the base population is human, they are fully inter-fertile with Elves and other human groups. Children born of cross-unions generally inherit the human base, though dormant transmutative traits can occasionally manifest.
 
 Their communal divine structure — entities born from collective belief sustained through shared ritual rather than institutional hierarchy — proved both their initial weakness and eventual salvation against the [[Phoenix Empire]].
 
 # History
 
 ## The Communion Territories (-7500 to -6500)
-Vast swampland and river delta civilizations organized around communal nature spirits. Their Spawning Circles served as democratic assemblies held in sacred spawning grounds. They were masters of biological magic, ecosystem management, and weather prediction, developing the philosophical system of "The Great Harmony" — balancing individual needs with communal survival.
+Vast swampland and river delta civilizations organized around communal nature spirits. Their **Spawning Circles (Kręgi Wylęgowe)** served as democratic assemblies and ritual sites. 
+- *The Spawning Circles* are not biological nesting grounds for laying eggs, but sacred aquatic arenas where young members of the transmutated castes undergo ritual Echo-immersion to awaken their genetic reptilian traits.
+- They were masters of biological magic, aquaculture, and weather prediction, developing the philosophical system of "The Great Harmony" — balancing individual needs with communal survival.
 
 ## Resistance to the Phoenix (-4800 to -4650)
 When the [[Phoenix Empire]] invaded, the Lizardfolk's decentralized political organization made them impossible to conquer through conventional means — no royal courts to strike, no military commands to capture. Their resistance "resembled fighting fog."
@@ -45,10 +52,10 @@ Western Lizardfolk territories came under Phoenix colonial administration, creat
 
 # Culture
 
-- **Communal Spirituality:** Religion flows like water through communities — adaptable, omnipresent, but difficult to grasp or control
-- **Democratic Traditions:** The Spawning Circles provided a model of collective decision-making
-- **Biological Magic:** Masters of ecosystem manipulation, aquaculture, and wetland engineering
-- **The Great Harmony:** Philosophy balancing individual needs with communal survival
+- **Communal Spirituality:** Religion flows like water through communities — adaptable, omnipresent, but difficult to grasp or control.
+- **Ritual Caste Transmutation:** The Spawning Circles provide a model of collective decision-making and the spiritual center for caste transmutation.
+- **Biological Magic:** Masters of ecosystem manipulation, aquaculture, and wetland engineering.
+- **The Great Harmony:** Philosophy balancing individual needs with communal survival.
 
 # Other Notes
 
@@ -56,3 +63,10 @@ The Lizardfolk's legacy is complex. Their communal approach to Echo magic and go
 
 - [ ] TODO: Define specific physical characteristics of Lizardfolk transmutation
 - [ ] TODO: Develop current status of Lizardfolk communities under dragon/colonial rule
+
+---
+> [!note] Powiązane
+> - [[Elves]]
+> - [[Raicha]]
+> - [[Phoenix Empire]]
+> - [[World History Timeline]]

@@ -112,124 +112,84 @@ aliases:
 - The Divine Veil System (-5270): Phoenix forces gods to fragment consciousness into specialized personas
 - Rapid Elvish Unification (-5260 to -5200): Phoenix proclaims [[Phoenix Empire]]
 
----
-
 ## The Iron Age and Imperial Expansion (-5200 to -2886)
 
 *"The Age of Phoenix Dominion"*
 
-### Imperial Consolidation (-5200 to -4800)
+### 1. Rapid Expansion and Conquest (-5200 to -4800)
+- **The Iron Reformation (-5200 to -5000):** Rapid assimilation of elvish city-states and integration of ancient knowledge.
+- **The Crucible Campaigns:** Swift conquest of central territories, establishing governors and centralized military codes.
+- **Essence Integration System:** Deceased emperors' souls integrated into the Phoenix, amplifying collective intelligence and magic.
 
-**The Iron Reformation (-5200 to -5000)**
-- Technological Renaissance: Integration of surviving ancient world knowledge
-- Administrative Revolution: Imperial bureaucracy combining divine authority with practical governance
-- Essence Integration System: Death of successor emperors strengthens Phoenix consciousness
+### 2. Stabilization and Border Colonization (-4800 to -3900)
+- **The [[Lizardfolk]] Campaign (-4800 to -4650):** Met with fierce dragon-led resistance. stalemated, leading to the first hybrid colonial treaty.
+- **The Desert Reclamation (-4600 to -4400):** Genie-descendant cities assimilated through diplomacy and selective military strikes.
+- **Eastern Ocean Expansion (-4300 to -4210):** Elves colonize the eastern archipelago, forming a distinct cultural identity: the [[Dark Elves]].
+- **Northern Expansion (-4250 to -3800):** Conquest of [[Green Elves]] lands; forest burning campaigns result in a 40% population loss for the Green Elves.
 
-**Early Expansion Experiments (-5000 to -4800)**
-- Testing Campaigns, Governor System Origins, Military Innovation
+### 3. The House of Lords and Decelerated Decay (-3900 to -3200)
+- **Creation of the House of Lords (-3900):** To manage the massive empire as the Phoenix begins to experience decison-making paralysis.
+- **Imperial Stagnation:** Rapid progress halts. Secular bureaucracy manages the state while the Phoenix retreats from public view.
+- **Delayed Collapse:** High institutional efficiency maintains stability despite the Emperor's growing silence.
 
-### The Great Expansion (-4800 to -3500)
-
-#### The [[Lizardfolk]] Campaign (-4800 to -4650)
-- Initial Penetration (-4800 to -4780): Phoenix legions exploit political fragmentation
-- The [[Council of Scales]] (-4770): Desperate unification of major Lizardfolk nations
-- The Dragon-Birth Ritual (-4765): Shamanic transformation creates first dragons through dark magic
-- The Great Reversal (-4760 to -4750): Dragon-led resistance halts Phoenix advance
-- Territorial stalemate and first colonial state
-
-#### Dragon Fragmentation (-4650 to -4600)
-- Dark magic corrupts dragon leaders, original defensive purpose forgotten
-- Dragon factions splinter against each other
-- Phoenix diplomatic exploitation expands colonial territory
-
-#### The Desert Reclamation (-4600 to -4400)
-- Voluntary Submission: Babylon, Ctesiphon, and Seleucia accept imperial protection
-- The Proud Cities Campaign: Conquest of Ashur, Uruk, Lagash, Memphis
-- Reconstruction Programs restore desert trade networks
-
-#### Northern Assimilation (-4500 to -4300)
-- Conquest of fragmented jinni successor states
-- Restoration of magical transportation systems (Sky-Road Networks)
-
-#### Eastern Ocean Expansion (-4300 to -4210) — *"Birth of the [[Dark Elves]]"*
-- Naval Innovation and Spider People First Contact
-- Foundation of island colonies with autonomous governance (Colonial Charter, -4225)
-- The Dark Elf Emergence (-4210): Distinct colonial identity established
-
-#### The Northern Continental Expansion (-4250 to -3800)
-- [[Green Elves]] resistance under the Thorn King (Aelion Thornweaver)
-- The Forest Campaign and guerrilla warfare decades
-- The Great Burning (-4105): Magical forest fires eliminate guerrilla hideouts
-- The Grove Accords (-4100): Surrender in exchange for religious autonomy
-- 40% population loss through warfare, disease, and displacement
-
-### Colonial Divergence (-4000 to -3000)
-
-- Council of Lords (-3900) and Emperor's Cabinet (-3850)
-- [[Dark Elves]] develop distinct cultural identity, maritime magic, economic independence
-- Regional autonomy expands as Phoenix consciousness fragments
-
-### The Imperial Crisis (-3200 to -2950)
-
-**Phoenix Consciousness Fragmentation (-3200 to -3100)**
-- Accumulated emperor-essences create irreconcilable contradictions
-- Administrative paralysis and the Silent Decades
-
-**Western Collapse vs. Eastern Stability (-3100 to -3000)**
-- The Pretender Wars, Economic Breakdown, Barbarian Incursions in the West
-- [[Dark Elves|Dark Elf]] Consolidation and Economic Supremacy in the East
-
-**Divine Awakening (-3050 to -2950)**
-- Phoenix Dissolution (-3050): Consciousness fragments completely
-- [[Khaine]]'s Return (-3030): First god to establish new divine champion
-
-### [[War of Two Empires]] (-2950 to -2886)
-
-- [[Empress Aetheria]] vs. [[Khaine]]'s Avatar
-- Devastating campaigns, Siege of the Golden City
-- The Forbidden Ritual (-2888) and magical catastrophe
-- [[The Spider God|Secret God's]] Intervention (-2886): Kills Avatar, imprisons [[Khaine]]
-- Imperial Dissolution (-2886): [[Phoenix Empire]] ceases to exist
+### 4. The Silent Decay and Dissolution (-3200 to -2886)
+- **The Silent Decades (-3200 to -3100):** Administrative paralysis as competing successor personalities inside the Phoenix clash.
+- **Western Collapse (-3100 to -3000):** Barbarian incursions, economic chaos in the west. The eastern Dark Elves remain highly stable and wealthy.
+- **Phoenix Dissolution (-3050):** The consciousness fragments completely.
+- **The Divine Awakening:** Bound gods escape the Veil System and start establishing new mortal champions.
+- **[[War of Two Empires]] (-2950 to -2886):** Succession crisis between Aetheria and Khaine's Avatar. End of the Empire.
 
 ---
 
-## The Dark Ages (-2886 to -2086)
+## The Dark Ages (-2886 to -2486)
 
-*"The 800 Years War and the Long Twilight"*
+*"The 400 Years of Twilight"*
 
-### The Fragmentation (-2886 to -2500)
-- The Hundred Kingdoms: Former governors establish independent territories
-- Trade network collapse, technological regression, religious fragmentation
+### The Fragmentation (-2886 to -2700)
+- The Hundred Kingdoms: Former governors establish independent, war-torn territories.
+- Collapse of long-distance trade, magical infrastructure regression, and rapid rise of local superstitions.
 
-### The Long Struggle (-2500 to -2200)
-- Wartime Administration and constant military innovation
-- Shifting alliances and diplomatic complexity
-- Resource depletion and population decline
+### The Long Struggle (-2700 to -2550)
+- War becomes the norm. Constant small-scale conflicts accelerate runic combat innovations.
+- Depopulation of the core and steady migration toward safer peripheral zones.
 
-### The Gradual Peace (-2200 to -2086)
-- Mutual Exhaustion Truces and trade resumption
-- Cultural exchange revival and demographic recovery
-- Successor state stabilization
+### The Exhaustion and Gradual Peace (-2550 to -2486)
+- Mutual exhaustion truces lead to the stabilization of successor states.
+- Re-emergence of regional trade networks. The rise of a charismatic warlord claiming Phoenix ancestry.
 
 ---
 
 ## The [[Second Empire]] and Present Day (0 AI to 1600 AI)
 
-### Year Zero
-- A charismatic warlord claiming descent from the last Phoenix Empress founds the [[Second Empire]], unifying much of the Western Peninsula
+*Note: Year 0 AI corresponds to -2486 in the cosmic calendar, marking the coronation of Autokrata Aurelius.*
 
-### Evolution of Faith
-- The [[Church of the Phoenix]], deprived of its god, transforms into a purely polytheistic system
-- Subordinate gods become fully independent entities in the pantheon
+### 1. Imperial Restoration and Rise (0 AI to 200 AI)
+- **Year 0 AI:** Autokrata Aurelius claims descent from Aetheria and unifies the Western Peninsula.
+- **Prime Era (200 AI):** The Second Empire reaches its maximum size, reclaiming ~30% of the old Phoenix territories (specifically the northern and western core).
+- **Evolution of Faith:** The [[Church of the Phoenix]] adapts, transforming the old Veil aspects into the **Seven-Aspect Pantheon**.
 
-### The Crusades (1100-1300 AI)
-- Period of intense religious wars led by the Church
-- Side effect: manifestation of numerous monsters from Echo — physical embodiments of fear, hatred, and pain
+### 2. Civil Wars and The Great Barbarian Invasion (200 AI to 500 AI)
+- **The Decadence Wars (200 - 450 AI):** Internecine conflicts split the nobility, weakening the army.
+- **The Dusk Fall (500 AI):** Warlords and nomadic tribes from beyond the Dusk Mountains launch massive invasions, conquering the frontier provinces.
+- **The Central Retreat:** The Empire barely survives, retreating behind its central valley fortifications.
 
-### The Present Day (1600 AI)
-- **Renaissance Era:** Age of discoveries, trade development, and science
-- **Politics:** [[Second Empire]] weakened, largely controlled by the powerful and corrupt Church. Independent northern states gaining strength. Reformist ideas emerging.
-- **World:** Monsters from Echo largely exterminated, opening new trade routes and enabling civilization's re-expansion.
+### 3. Stagnant Hegemony (500 AI to 1100 AI)
+- Period of volatile stability. The Empire functions as a local hegemon on the Western Peninsula, unable to project power globally.
+- Dynamic rises of merchant republics and independent kingdoms in the north.
+
+### 4. The Crusades and the Chimera War (1100 AI to 1300 AI)
+- **The Holy Campaigns (1100 - 1300 AI):** The Church launches massive crusades to recover holy artifacts (Phoenix Shards).
+- **The Chimera War (Wojna Chimeryczna, 1100 - 1200 AI):** The most devastating conflict of the Crusades. Rogue flesh-weavers combine humans with beasts, creating the **Orks (Zmienieni)**. The war devastates the continent, and the Orks eventually disperse into society as a pariah caste.
+- **Echo Bleed:** Mass psychic trauma from the Crusades materializes feral Echo monsters across the lands.
+
+### 5. The Dragon Civil War (Smocza Wojna Domowa, ok. 1300 AI)
+- High-medieval conflict at the beginning of the 14th century. A massive war of saints and dragons in the south.
+- The defeated dragon factions are banished to the far north, where they become legendary monsters plaguing northern kingdoms.
+
+### 6. The Present Day (1600 AI)
+- **Renaissance Era:** The emergence of printing, early maritime navigation (oceanic caravels), and runic craftsmanship.
+- **Fragmented World:** The Second Empire is weak, heavily dominated by the corrupt Church. The Północ (North) consists of 20-30 independent kingdoms, free cities, and merchant republics.
+- **The Looming Threats:** Echo monsters are mostly hunted down, but the kult of Khaine is rising in the Corsair Kingdoms. The Orks demand civil rights, and the barrier with the Echo plane continues to thin.
 
 ---
 
